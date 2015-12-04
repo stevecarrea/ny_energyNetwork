@@ -1,0 +1,519 @@
+Plant_Name,State,County,PlantCapac,PlantFlow,BTU_Conten,DryGasStor,NG_LiquidS,City,ZipCode,OwnerCompa,OperatorCo,Source,x,y
+Robin Hill Plant,PA,Washington,18,5.00000000000,1328,0,1215,Bulger,15019,"Laurel Mountain Midstream, LLC","Laurel Mountain Midstream, LLC","EIA-757, Natural Gas Processing Plant Survey",-8941778,4924204
+Keystone Plant,PA,Butler,210,118.00000000000,1221,0,0,Evans City,16033,MarkWest Liberty Midstream & Resources,MarkWest Liberty Midstream & Resources,"EIA-757, Natural Gas Processing Plant Survey",-8910599,4981593
+Houston Plant,PA,Washington,355,279.60000000000,1276,0,0,Washington,15301,MarkWest Liberty Midstream & Resources,MarkWest Liberty Midstream & Resources,"EIA-757, Natural Gas Processing Plant Survey",-8933702,4889519
+Penn Cryo Gas Plant,PA,Butler,125,101.76000000000,1180,0,5733,Renfrew,16053,"Mountain Gathering, LLC","Mountain Gathering, LLC","EIA-757, Natural Gas Processing Plant Survey",-8903684,4984634
+Keystone Plant,PA,Warren County,10,5.32000000000,1293,0,2064,Claredon,16313,"Elkhorn Holdings, LLC",Elkhorn Gas Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-8811762,5118818
+Roystone Plant,PA,Warren,9,6.12000000000,1251,0,3036,Sheffield,16347,Elkhorn Holdings LLC,Elkhorn Gas Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-8797370,5112698
+GRUNDER RUN PLANT,PA,WARREN,2,1.00000000000,1360,0,1428,WARREN,16365,KCS ENERGY INC.,"KCS ENERGY INC,","EIA-757, Natural Gas Processing Plant Survey",-8809582,5141249
+Lewis Run Plant,PA,Bradford,5,2.53000000000,1293,0,1821,Bradford,16701,"Elkhorn Investments, LLC","Elkhorn Gas Processing, LLC","EIA-757, Natural Gas Processing Plant Survey",-8767830,5148685
+Kane Plant,PA,McKean,12,7.16000000000,1293,0,3035,Kane,16735,"Kane GPP, LP",Elkhorn Gas Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-8772549,5111145
+Whitetail Plant,PA,Elk,6,3.90000000000,1150,0,1214,Kane,16735,"Elkhorn Investments, LLC","Elkhorn Gas Processing, LLC","EIA-757, Natural Gas Processing Plant Survey",-8766224,5111145
+Lafayette,PA,McKeen,2,1.00000000000,1360,0,700,Lewis Run,16738,MSL Oil & Gas Corp,MSL Oil & Gas Corp,"EIA-757, Natural Gas Processing Plant Survey",-8763968,5130377
+Cobb,WV,Kenewha,65,35.00000000000,1240,0,0,Clendenin,25045,"Markwest Energy Appalacia, LLC","Markwest Energy Appalacia, LLC","EIA-757, Natural Gas Processing Plant Survey",-9052355,4642491
+Smokehouse,WV,Logan,7,5.00000000000,1271,0,2142,Chapmanville,25508,Chesapeake Operating Inc.,Penspen (Formerly dba Greystar Corp),"EIA-757, Natural Gas Processing Plant Survey",-9130607,4574266
+Hurricane Gas Processing Plant,WV,Putnam,10,4.00000000000,1250,0,2429,Hurricane,25526,"Tulsa Hurricane, LLC","Elkhorn Gas Processing, LLC","EIA-757, Natural Gas Processing Plant Survey",-9126500,4635853
+Kenova,WV,Wayne,160,108.00000000000,1238,0,0,Kenova,25530,"Markwest Energy Appalacia, LLC","Markwest Energy Appalacia, LLC","EIA-757, Natural Gas Processing Plant Survey",-9190950,4629664
+Holden,WV,Logan,9,4.51000000000,1264,0,2142,Holden,25625,Chesapeake Appalachia LLC,Penspen (Formerly dba Greystar Corp.),"EIA-757, Natural Gas Processing Plant Survey",-9139133,4555162
+Kermit,WV,Mingo,32,20.20000000000,1263,0,714,Kermit,25674,CHESAPEAKE APPALACHIA LLC,Penspen (Formerly dba Greystar Corp.),"EIA-757, Natural Gas Processing Plant Survey",-9167335,4560914
+Fort Beeler,WV,Marshall,520,280.00000000000,1212,0,19285,Cameron,26033,"Williams Partners, LP","Williams Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-8969834,4841420
+MarkWest Majorsville Cryo Plant,WV,Marshall,870,634.70000000000,1251,0,0,Dallas,26036,MarkWest Liberty Midstream & Resource,MarkWest Liberty Midstream & Resource,"EIA-757, Natural Gas Processing Plant Survey",-8966193,4863741
+Schultz NGL Facility,WV,Pleasants,10,4.00000000000,1318,0,3571,St. Marys,26170,Dominion,Exterran Energy Solutions,"EIA-757, Natural Gas Processing Plant Survey",-9036060,4773317
+Lightburn Extraction Plant,WV,Lewis,44,35.00000000000,1178,0,5028,Jane Lew,26378,"Dominion Transmission, Inc.","Dominion Transmission, Inc.","EIA-757, Natural Gas Processing Plant Survey",-8955449,4737785
+Hastings Extraction Plant,WV,Wetzel,180,165.00000000000,1230,0,38635,Pine Grove,26419,"Dominion Transmission, Inc","Dominion Transmission, Inc.","EIA-757, Natural Gas Processing Plant Survey",-8974264,4806747
+Mobley Plant,WV,Wetzel,720,444.40000000000,1203,0,0,Smithfield,26437,MarkWest Liberty Midstream & Resources,MarkWest Liberty Midstream & Resources,"EIA-757, Natural Gas Processing Plant Survey",-8963237,4797370
+Copley Gas Plant,WV,Lewis,35,28.00000000000,1180,0,2514,Weston,26452,"Dominion Transmission, Inc.","Dominion Transmission, Inc.","EIA-757, Natural Gas Processing Plant Survey",-8962779,4727000
+Sherwood Plant,WV,Doddridge,1000,587.20000000000,1187,0,0,West Union,26456,"MarkWest Liberty Midstream & Resources, LLC","MarkWest Liberty Midstream & Resources, LLC","EIA-757, Natural Gas Processing Plant Survey",-8994824,4755780
+West Union Gas Plant,WV,Doddridge,15,10.00000000000,1220,0,1885,West Union,26456,"Dominion Transmission, Inc.","Dominion Transmission, Inc.","EIA-757, Natural Gas Processing Plant Survey",-8992994,4762733
+St. Regis Treatment Facility and Jay Gas Plant,FL,Santa Rosa,90,15.00000000000,380,0,16548,Jay,32565,"Breitburn Operating, LP",Quantum Resources Mgnt Co,"EIA-757, Natural Gas Processing Plant Survey",-9708395,3616352
+Gordo BWB Compressor & Process Plant,AL,Pickens,5,4.00000000000,1120,0,714,Gordo,35466,Samson Resoures,Samson Resources,"EIA-757, Natural Gas Processing Plant Survey",-9786557,3929634
+North Beach Plant,AL,Conecuha,8,5.83000000000,1320,0,2100,Evergreen,36401,Plains Gas Solutions,Plains Gas Solutions,"EIA-757, Natural Gas Processing Plant Survey",-9679085,3694296
+Dogwood Oaks Plant,AL,Escambia,4,4.00000000000,1350,0,1000,Brewton,36426,Plains Gas Solutions,Plains Gas Solutions,"EIA-757, Natural Gas Processing Plant Survey",-9693033,3651010
+Castleberry,AL,Conecuh,9,8.00000000000,1400,0,2857,Castleberry,36432,Gas Processors Inc,Gas Processors Inc,"EIA-757, Natural Gas Processing Plant Survey",-9687104,3665519
+Lufkin Plant,AL,Monroe,7,1.00000000000,1400,0,1000,Frisco City,36445,Hilcorp Energy Company,Hilcorp Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-9733641,3685763
+Wildfork,AL,Monroe,5,0.00000000000,0,0,2150,Frisco City,36445,Gas Processors Inc,Gas Processors Inc,"EIA-757, Natural Gas Processing Plant Survey",-9734606,3690345
+Monroeville Plant,AL,Monroe,0,0.05000000000,1200,0,2142,Monroeville,36460,Palmer Petroleum Inc,Palmer Petroleum Inc,"EIA-757, Natural Gas Processing Plant Survey",-9719024,3700592
+Atmore,AL,Escambia,3,1.00000000000,1162,0,715,Atmore,36502,Gas Processors Inc,Gas Processors Inc,"EIA-757, Natural Gas Processing Plant Survey",-9736101,3644349
+Big Escambia Creek,AL,Escambia,50,40.00000000000,900,5,34000,Atmore,36502,"Escambia Operating Company, LLC","Eagle Rock Energy G & P, LLC","EIA-757, Natural Gas Processing Plant Survey",-9741570,3648724
+Chatom Plant,AL,Washington,25,10.00000000000,116,0,7650,Chatom,36518,"American Midstream Chatom, LLC","American Midstream Chatom, LLC","EIA-757, Natural Gas Processing Plant Survey",-9827727,3691918
+Chunchula Gas Plant,AL,Mobile,70,20.00000000000,1126,0,15833,Chunchula,36521,Union Oil Company of California,Chevron Corp,"EIA-757, Natural Gas Processing Plant Survey",-9816804,3625632
+Mobile Bay Processing,AL,Mobile,300,130.00000000000,1100,0,2400,Coden,36523,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-9812663,3551618
+Williams Mobile Bay Processing Plant,AL,Mobile,700,307.57000000000,1128,17,17038,Coden,36523,"Williams Mobile Bay Producer Services, LLC","Williams Mobile Bay Producer Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-9813709,3549107
+Yellowhammer Gas Plant,AL,Mobile,200,70.00000000000,1110,0,21428,Coden,36523,W&T Offshore,W&T Offshore,"EIA-757, Natural Gas Processing Plant Survey",-9811965,3549595
+Hatters Pond Gas Plant,AL,Mobile,70,11.00000000000,1239,0,13200,Creola,36525,Four Star Oil and Gas Company,Chevron Corp,"EIA-757, Natural Gas Processing Plant Survey",-9798128,3618474
+Rogersville Cryogenic Plant,TN,Hawkins,25,14.00000000000,1225,0,2857,Rogersville,37857,"Continuum Midstream, LLC","Continuum Midstream, LLC","EIA-757, Natural Gas Processing Plant Survey",-9233096,4358578
+Bazor Ridge,MS,Wayne,20,15.00000000000,1277,1201,2857,Waynesboro,39367,"American Midstream (Mississippi), LLC",American Midstream,"EIA-757, Natural Gas Processing Plant Survey",-9860030,3724765
+Pascagoula Gas Processing Plant,MS,Jackson,1100,300.00000000000,1165,0,1000,Pascagoula,39567,BP America Production Company,BP America Production Company,"EIA-757, Natural Gas Processing Plant Survey",-9856970,3550363
+Womack Hill Gas Plant,AL,Choctaw,2,1.00000000000,2039,0,3899,Gilbertown,36908,Pruet Production Co.,Pruet Production Co.,"EIA-757, Natural Gas Processing Plant Survey",-9831134,3744863
+Corinne Dehy Refrigeration Station,MS,Monroe,3,1.00000000000,1140,0,428,Aberdeen,39730,Samson Resoures,Samson Resources,"EIA-757, Natural Gas Processing Plant Survey",-9858931,4007576
+Muldon Gas Storage Field,MS,Monroe,750,86.00000000000,1017,92820,2040,Prairie,39756,"Southern Natural Gas Company, LLC","Southern Natural Gas Company, LLC","EIA-757, Natural Gas Processing Plant Survey",-9885180,4001632
+Boldman,KY,Pike,70,37.00000000000,1259,0,0,Pikeville,41501,"MarkWest Energy Appalacia, LLC","MarkWest Energy Appalacia, LLC","EIA-757, Natural Gas Processing Plant Survey",-9185781,4511291
+Langley Processing Plant,KY,Floyd,170,143.00000000000,1294,0,4897,Langley,41645,"MarkWest Energy Appalacia, LLC","MarkWest Energy Appalacia, LLC","EIA-757, Natural Gas Processing Plant Survey",-9219367,4515197
+Seneca Plant,OH,Noble,600,286.40000000000,1205,0,0,Summerfield,43788,MarkWest Liberty Midstream & Resources,MarkWest Liberty Midstream & Resources,"EIA-757, Natural Gas Processing Plant Survey",-9053974,4837250
+Churchtown Compressor Station,OH,Washington,0,0.12700000000,1092,0,40000,Marietta,45750,"Cobra Pipeline Company, LTD","Cobra Pipeline Company, LTD","EIA-757, Natural Gas Processing Plant Survey",-9063879,4783645
+Hartland 36 Processing Plant,MI,Livingston,8,1.00000000000,1212,0,714,Hartland,48380,Merit Enerrgy Company,Merit Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-9313224,5248378
+Fraser 8,MI,Crawford,2,1.60000000000,1070,0,714,Pinconning,48650,"BreitBurn Operating, L.P.","BreitBurn Operating, L.P.","EIA-757, Natural Gas Processing Plant Survey",-9351534,5441968
+Mentor Plant,MI,Oscoda,10,0.76000000000,1128,0,715,Rose City,48654,Merit Energy Company,Merit Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-9365491,5536281
+WEST BRANCH GAS PLANT,MI,OGEMAW,10,5.00000000000,1302,0,4714,WEST BRANCH,48661,WHITING OIL AND GAS CORPORATION,WHITING OIL AND GAS CORPORATION,"EIA-757, Natural Gas Processing Plant Survey",-9382682,5518402
+Monitor 11,MI,Bay,0,0.09000000000,1080,0,1332,Bay City,48706,"BreitBurn Operating, L.P.","BreitBurn Operating, L.P.","EIA-757, Natural Gas Processing Plant Survey",-9345472,5403831
+Reno Gas Plant,MI,Iosco,8,0.39000000000,1300,0,1429,Whittemore,48770,Whiting Oil and Gas Corporation,Whiting Oil and Gas Corporation,"EIA-757, Natural Gas Processing Plant Survey",-9330896,5504020
+Rosebush Plant,MI,Isabella,0,0.13500000000,1410,0,0,Rosebush,48878,Summit Petroleum Corp,Summit Petroleum Corp,"EIA-757, Natural Gas Processing Plant Survey",-9437316,5421025
+Kalkaska Gas Processing,MI,Kalkaska,75,38.00000000000,1087,0,42000,Kalkaska,49646,Merit Energy Company,Merit Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-9468665,5578793
+Goose Lake Gas Plant,MI,Osceola,2,0.40000000000,1149,0,607,Leroy,49655,Dart Oil & Gas Corporation,Dart Oil & Gas Corp,"EIA-757, Natural Gas Processing Plant Survey",-9507186,5470918
+Sherman 35,MI,,2,2.00000000000,1060,0,714,Leroy,49655,"BreitBurn Operating, L.P.","BreitBurn Operating, L.P.","EIA-757, Natural Gas Processing Plant Survey",-9511527,5469471
+Aztec Manistee,MI,Manistee,5,0.15000000000,1800,0,1429,Manistee,49660,"Aztec Producing Company, Inc.","Aztec Producing Company, Inc.","EIA-757, Natural Gas Processing Plant Survey",-9596974,5504675
+Marion Gas Plant,MI,Osceola,3,1.00000000000,1156,0,607,Marion,49665,Dart Oil & Gas Corporation,Dart Oil & Gas Corp,"EIA-757, Natural Gas Processing Plant Survey",-9476291,5480444
+Beaver Creek,MI,Crawford,2,1.70000000000,1740,0,714,Grayling,49735,"BreitBurn Operating, L.P.","BreitBurn Operating, L.P.","EIA-757, Natural Gas Processing Plant Survey",-9425533,5620780
+Belfield Gas Plant,ND,Stark,50,19.04000000000,1550,0,16600,Belfield,58622,Whiting Oil and Gas Corp,Whiting Oil and Gas Corp,"EIA-757, Natural Gas Processing Plant Survey",-11496033,5925131
+Little Knife Plant,ND,Billings,24,20.00000000000,1350,0,10000,Killdeer,58627,"Petro-Hunt, L.L.C.","Petro-Hunt, L.L.C.","EIA-757, Natural Gas Processing Plant Survey",-11499927,5980171
+Marmarth Plant,ND,Slope,9,2.18000000000,1634,0,2857,Marmarth,58643,ONEOK Rockies Midstream,ONEOK Rockies Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11571045,5833348
+Badlands,ND,,20,20.00000000000,275,0,5115,Rhame,58651,Kinder Morgan,Kinder Morgan,"EIA-757, Natural Gas Processing Plant Survey",-11547762,5821390
+Lignite Gas Plant,ND,Burke,10,3.50000000000,1245,0,10000,Lignite,58752,ONEOK Rockies Midstream,ONEOK Rockies Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11415405,6247238
+Norse,ND,Divide,25,16.60000000000,1450,0,6590,McGregor,58755,Kinder Morgan,Kinder Morgan,"EIA-757, Natural Gas Processing Plant Survey",-11459891,6211298
+Robinson Lake Gas Plant,ND,Montrail,140,121.00000000000,1550,0,29050,New Town,58763,Whiting Oil and Gas Corporation,Whiting Oil and Gas Corporation,"EIA-757, Natural Gas Processing Plant Survey",-11418674,6105676
+STATELINE I,ND,Williams,100,81.56000000000,1379,0,5700,Williston,58801,"ONEOK Rockies Midstream, a division of ONEOK Partners",ONEOK Rockies Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11549797,6142281
+Watford City,ND,McKenzie,85,30.00000000000,1450,0,36818,Alexander,58831,Kinder Morgan,Kinder Morgan,"EIA-757, Natural Gas Processing Plant Survey",-11538777,6072774
+Red Wing Creek Gas Plant II,ND,McKenzie,12,4.00000000000,1445,0,9143,Arnegard,58835,True Oil LLC,"Delta Process Field Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-11514990,6069440
+Hess Tioga Gas Plant LLC,ND,Williams,250,109.00000000000,1300,0,78000,Tioga,58852,Hess Corporation,Hess Corporation,"EIA-757, Natural Gas Processing Plant Survey",-11460483,6159647
+Nesson Plant,ND,Williams,25,18.00000000000,1476,0,5785,Tioga,58852,Nesson Gathering LLC,Nesson Gathering LLC,"EIA-757, Natural Gas Processing Plant Survey",-11462171,6165194
+Garden Creek I,ND,McKenzie,110,100.00000000000,1336,0,6033,Watford City,58854,"ONEOK Rockies Midstream, a division of ONEOK Partners",ONEOK Rockies Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11484270,6068228
+LITTLE MISSOURI PLANT,ND,McKenzie,90,47.00000000000,1290,0,17142,Watford City,58854,"Targa Badlands, LLC","Targa Badlands, LLC","EIA-757, Natural Gas Processing Plant Survey",-11482100,6075463
+Dry Creek Plant,MT,Carbon,4,1.08400000000,1190,0,1400,Bridger,59014,Saga Petroleum LLC,Saga Petroleum LLC,"EIA-757, Natural Gas Processing Plant Survey",-12110479,5660618
+Bakken,MT,Richland,25,22.00000000000,1400,0,7386,Sidney,59270,Kinder Morgan,Kinder Morgan,"EIA-757, Natural Gas Processing Plant Survey",-11585361,6035409
+McKenzie Plant (aka Grasslands Plant),MT,McKenzie,85,80.94000000000,1357,0,28454,Sidney,59270,"Oneok Rockies Midstream, a division of ONEOK Partners",ONEOK Rockies Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11590908,6044091
+Baker Plant,MT,Fallon,6,2.07000000000,1272,0,8272,Baker,59313,ONEOK Rockies Midstream,ONEOK Rockies Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11605031,5829466
+Cut Bank NGL Plant,MT,Glacier,25,5.00000000000,1090,0,4500,Cut Bank,59427,Omimex Canada LTD,Northwestern Energy,"EIA-757, Natural Gas Processing Plant Survey",-12509955,6231059
+Aux Sable Liquid Products,IL,Grundy,2100,1682.00000000000,1127,0,200000,Morris,60450,"Aux Sable Liquid Products, LP","Aux Sable Liquid Products, LP","EIA-757, Natural Gas Processing Plant Survey",-9844302,5067001
+Cheney Plant,KS,Sedgwick,100,44.49000000000,1132,0,0,Cheney,67025,ONEOK Field Services,ONEOK Field Services,"EIA-757, Natural Gas Processing Plant Survey",-10883382,4525266
+KINGMAN GAS PLANT,KS,KINGMAN,26,21.00000000000,1130,0,380,CHENEY,67025,LUMEN MIDSTREAM PARTNERSHIP LLC,LUMEN MIDSTREAM PARTNERSHIP LLC,"EIA-757, Natural Gas Processing Plant Survey",-10885552,4528883
+Spivey,KS,Harper,22,10.00000000000,1210,0,7620,Harper,67058,R&B Oil & Gas Inc.,"Pioneer Exploration, LLC","EIA-757, Natural Gas Processing Plant Survey",-10915613,4482940
+Reno,KS,Reno,25,3.00000000000,1060,0,1000,Turon,67583,Superior Pipeline Company LLC,Superior Pipeline Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-10962405,4551472
+Satanta Gas Plant,KS,GRANT,220,107.00000000000,1040,0,2140,ULYSSES,67880,Linn Energy as of 01/1/15,Linn Energy,"EIA-757, Natural Gas Processing Plant Survey",-11272999,4516872
+Jayhawk Gas Plant,KS,Grant,450,200.00000000000,1009,0,0,Ulysses,67880,Linn Energy,Linn Operating,"EIA-757, Natural Gas Processing Plant Survey",-11278305,4520972
+National Helium Plant,KS,Seward,800,580.00000000000,1080,0,4000,Liberal,67901,Spectra Energy Corporation,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11233009,4453314
+Venice Gas Plant,LA,Plaquemines,750,520.00000000000,1100,0,0,Venice,70037,Targa Capital LLC,Targa Resources (Targa Capital),"EIA-757, Natural Gas Processing Plant Survey",-10018456,3461839
+Toca Gas Plant,LA,St. Bernard,1100,150.00000000000,1096,0,0,St. Bernard,70085,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC","EIA-757, Natural Gas Processing Plant Survey",-9989764,3482493
+Gibson Plant,LA,Terrabone Parish,110,84.00000000000,1082,0,0,Gibson,70356,"EnLink LIG Liquids, LLC","EnLink LIG Liquids, LLC","EIA-757, Natural Gas Processing Plant Survey",-10123743,3455170
+North Terrebonne Plant,LA,Gibson,1100,447.00000000000,1100,0,2000,Gibson,70356,"Enterprise Gas Processing, LLC",Enterprise Gas Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-10125672,3457581
+Larose Processing Plant,LA,,600,270.00000000000,1140,0,100,Larose,70373,Discovery Producer Services,Williams Field Services Group LLC,"EIA-757, Natural Gas Processing Plant Survey",-10056869,3451868
+Patterson II Plant,LA,St Mary,150,86.30000000000,1118,0,0,Patterson,70392,Plains Marketing LP,Plains Gas Solutions,"EIA-757, Natural Gas Processing Plant Survey",-10165007,3465699
+Pelican Plant,LA,St. Mary,600,368.00000000000,1089,0,0,Patterson,70392,"EnLink Pelican, LLC","EnLink Pelican, LLC","EIA-757, Natural Gas Processing Plant Survey",-10165538,3466583
+Chipola Field Gas Plant,LA,Saint Helena,1,0.04000000000,1200,0,700,,70441,"Bridwell Oil Management, LLC","Bridwell Oil Management, LLC","EIA-757, Natural Gas Processing Plant Survey",-10102554,3614407
+PSI Kaplan Plant,LA,Vermilion,300,0.00000000000,0,0,0,Abbeville,70510,"PSI Midstream Partners, LP","PSI Midstream Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-10265444,3486799
+Lake LaRose Gas Plant,LA,St. Martin Parish,5,2.00000000000,1111,0,150,Breaux Bridge,70517,Whiskey Bay Gas Co LTD,Energy Transfer Co,"EIA-757, Natural Gas Processing Plant Survey",-10222421,3541506
+Neptune Gas Plant,LA,St. Mary Parish,650,536.00000000000,1153,0,350,Centerville,70538,"Enterprise Gas Processing, LLC",Enterprise Gas Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-10194794,3477753
+Acadia Gas Plant,LA,Acadia,80,3.00000000000,1141,0,0,Egan,70531,Targa Midstream Services LLC,Targa Midstream Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10297977,3533500
+Sea Robin Gas Processing Plant,LA,Vermilion,660,157.00000000000,1100,0,750,Erath,70533,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC","EIA-757, Natural Gas Processing Plant Survey",-10245814,3490343
+Eunice Plant,LA,Acadia Parish,500,340.00000000000,1036,0,66577,Eunice,70535,"EnLink Processing Services, LLC","EnLink Processing Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-10288860,3565169
+Burns Point Plant,LA,St. Mary Parish,160,63.00000000000,1090,0,500,Franklin,70538,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC","EIA-757, Natural Gas Processing Plant Survey",-10199735,3478449
+Lowry Gas Plant,LA,Cameron,220,135.00000000000,1065,0,0,Lake Arthur,70549,Targa Resources,Targa Resources,"EIA-757, Natural Gas Processing Plant Survey",-10330779,3512753
+Big Lake Gas Plant,LA,Calcasieu,200,116.00000000000,1067,0,0,Lake Charles,70605,Targa Midstream Services LLC,Targa Midstream Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10383177,3520355
+Gillis Gas Plant,LA,Calcasieu,180,166.00000000000,1113,0,11280,Lake Charles,70615,Targa Field Services LLC,Targa Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10366375,3536194
+Barracuda Gas Plant,LA,Cameron,200,122.00000000000,1059,0,98,Cameron,70631,Targa Resources,Targa Resources,"EIA-757, Natural Gas Processing Plant Survey",-10426517,3490187
+Cameron Meadows Gas Plant,LA,Cameron,125,70.00000000000,1080,0,0,Johnsons Bayou,70631,"PSI Midstream Partners, LP","PSI Midstream Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-10430040,3485592
+Stingray Gas Plant,LA,Cameron,300,0.00000000000,0,0,714,Cameron,70631,Targa Resources,Targa Resources,"EIA-757, Natural Gas Processing Plant Survey",-10432491,3490187
+Grand Cheniere Plant,LA,,120,63.86000000000,1077,0,0,Grand Chenier,70643,Plains All American,Plains Gas Solutions,"EIA-757, Natural Gas Processing Plant Survey",-10323641,3476374
+Neale,LA,Beauregard,5,3.00000000000,1154,0,1143,Merryville,70653,Texas Petroleum Investment Company,Texas Petroleum Investment Company,"EIA-757, Natural Gas Processing Plant Survey",-10415303,3589125
+INDIAN VILLAGE PLANT,LA,ALLEN,3,2.00000000000,1,0,714,REAVES,70658,"JP OIL COMPANY, LLC","JP OIL COMPANY, LLC","EIA-757, Natural Gas Processing Plant Survey",-10358008,3571691
+KROTZ SPRINGS GAS PLANT,LA,ST. LANDRY,5,1.00000000000,1,0,1143,KROTZ SPRINGS,70750,"JP OIL COMPANY, LLC","JP OIL COMPANY, LLC","EIA-757, Natural Gas Processing Plant Survey",-10218337,3569126
+Plaquemine Plant,LA,Iberville Parish,225,151.00000000000,1029,0,11904,Plaquemine,70764,"EnLink LIG Liquids, LLC","EnLink LIG Liquids, LLC","EIA-757, Natural Gas Processing Plant Survey",-10162168,3532653
+Samson Benton Plant,LA,Bossier,4,0.30000000000,1108,0,1000,Benton,71006,Samson Resoures,Samson Contour Energy,"EIA-757, Natural Gas Processing Plant Survey",-10423238,3859204
+Cotton Valley Gas Plant,LA,Webster,90,65.00000000000,1190,0,18000,Cotton Valley,71018,XTO Energy Inc,XTO Energy Inc,"EIA-757, Natural Gas Processing Plant Survey",-10395612,3869708
+Dubberly Plant,LA,Webster,380,135.00000000000,1120,0,4129,Dubberly,71024,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10375487,3827474
+Gravel Point,LA,DeSoto,45,44.00000000000,1075,0,2429,Frierson,71027,J-W Gathering Company,J-W Gathering Company,"EIA-757, Natural Gas Processing Plant Survey",-10427637,3795541
+Ada Plant,LA,Bienville,45,45.00000000000,1080,0,714,Gibsland,71028,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10361176,3827755
+Elm Grove Plant,LA,Bossier,200,155.00000000000,1070,0,2700,Haughton,71037,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10407213,3827955
+Sligo Processing Facility,LA,Bossier,230,140.00000000000,1100,0,7857,Haughton,71037,"Enable Midstream Partners, LP","Enable Midstream Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-10408901,3832055
+Antioch Gas Processing Plant,LA,,6,3.00000000000,1258,0,1429,Lisbon,71048,"LNGP, LLC",Antioch Gas Processing Plant,"EIA-757, Natural Gas Processing Plant Survey",-10331422,3873237
+Bossier Levee Board,LA,Bossier,17,0.00000000000,0,0,285,Elm Grove,71051,J-W Gathering Company,J-W Gathering Company,"EIA-757, Natural Gas Processing Plant Survey",-10403532,3810905
+Egan JT,LA,Caddo,10,0.00000000000,0,0,285,Shreveport,71051,J-W Gathering Company,J-W Gathering Company,"EIA-757, Natural Gas Processing Plant Survey",-10404014,3804876
+Elm Grove Plant,LA,Bossier,2,1.50000000000,1060,0,310,Elm Grove,71051,"Enable Midstream Partners, LP","Enable Midstream Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-10407390,3808493
+DESOTO GAS PLANT,LA,DESOTO,1007,775.00000000000,1040,0,714,,71052,,"VERNON E. FAULCONER, INC.","EIA-757, Natural Gas Processing Plant Survey",-10426748,3764549
+Minden Beacon,LA,Webster,115,65.00000000000,1185,0,0,Minden,71055,DCP Assets Holding,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10385897,3851916
+Rocky Mount,LA,Bossier,2,1.00000000000,1126,0,429,N/A,71064,"Linn Operating, Inc","Linn Operating, Inc","EIA-757, Natural Gas Processing Plant Survey",-10429055,3883468
+Rocky Mount Gas Plant,LA,Bossier,1,0.25000000000,1050,0,357,Plain Dealing,71064,Samson Resoures,Samson Contour Energy,"EIA-757, Natural Gas Processing Plant Survey",-10430502,3889256
+Vivian Gas Processing Plant,LA,Caddo,2,0.10000000000,1025,0,285,Vivian,71082,Caruthers Producing Co Inc,Caruthers Producing Co Inc,"EIA-757, Natural Gas Processing Plant Survey",-10459171,3875468
+Grayson Gas Plant,LA,Caddo,2,1.70000000000,1125,0,700,Shreveport,71101,Grayson LLC,"Petro-Chem Operating Co.,  Inc.","EIA-757, Natural Gas Processing Plant Survey",-10434783,3829574
+Plain Dealing JT Plant,LA,Caddo,0,0.25000000000,1100,0,285,Shreveport,71101,Cypress Oil and Gas,"Petro-Chem Operating Company, Inc.","EIA-757, Natural Gas Processing Plant Survey",-10435843,3829933
+Caspiana Plant,LA,Caddo,25,15.00000000000,1050,0,715,Shreveport,71115,"Enable Midstream Partners, LP","Enable Midstream Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-10416053,3798608
+Townsend Gas Plant,LA,Jackson,1,0.50000000000,1170,0,357,Choudrant,71227,Samson Resoures,Samson Contour,"EIA-757, Natural Gas Processing Plant Survey",-10294868,3833697
+Dubach Gas Plant,LA,Lincoln,165,150.00000000000,1133,0,3400,Dubach,71235,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10316456,3854300
+Lisbon Plant,LA,Claiborne,38,26.00000000000,1125,0,900,Lisbon,71235,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10312597,3851648
+ELBA MINI PLANT,LA,ST. LANDRY,3,2.00000000000,1,0,952,MELVILLE,71353,"JP OIL COMPANY, LLC","JP OIL COMPANY, LLC","EIA-757, Natural Gas Processing Plant Survey",-10223732,3607044
+Dorcheat Gas Processing Plant,AR,Columbia,25,14.80000000000,1152,0,4285,Magnolia,71753,"Bonanza Creek Energy, Inc.","Bonanza Creek Energy, Inc.","EIA-757, Natural Gas Processing Plant Survey",-10374165,3928682
+McKamie Gas Plant,AR,Lafayette,12,11.00000000000,1152,0,4133,Stamps,71860,"Bonanza Creek Energy, Inc.",Bonanza Creek Energy Resources LLC,"EIA-757, Natural Gas Processing Plant Survey",-10407744,3928496
+AMBER GAS PLANT,KS,GRADY,21,11.00000000000,1130,0,380,AMBER,73004,LUMEN MIDSTREAM PARTNERSHIP LLC,LUMEN MIDSTREAM PARTNERSHIP LLC,"EIA-757, Natural Gas Processing Plant Survey",-10898796,4182429
+Binger,OK,Caddo,15,7.00000000000,1000,0,0,Binger,73009,Mustang Ventures CO,"Mustang Gas Products, LLC","EIA-757, Natural Gas Processing Plant Survey",-10949789,4202828
+Binger Operations L.L.C.,OK,Caddo,15,14.00000000000,340,0,65,Binger,73009,Legacy Reserves LLC,Binger Operations LLC,"EIA-757, Natural Gas Processing Plant Survey",-10945689,4204516
+CALUMET,OK,CANADIAN,250,133.00000000000,1150,0,5952,CALUMET,73014,ENABLE PRODUCTS LLC,ENABLE PRODUCTS LLC,"EIA-757, Natural Gas Processing Plant Survey",-10926798,4238547
+Cana Plant,OK,Canadian,350,313.00000000000,1182,0,6095,Calumet,73014,"EnLink Midstream, LLC.","EnLink Midstream, LLC.","EIA-757, Natural Gas Processing Plant Survey",-10920769,4245059
+SOUTH CANADIAN,OK,CUSTER,200,176.00000000000,1180,0,0,CALUMET,73014,ENABLE PRODUCTS LLC,ENABLE PRODUCTS LLC,"EIA-757, Natural Gas Processing Plant Survey",-10925592,4243129
+Cashion Plant,OK,Kingfisher,45,33.00000000000,1220,0,700,Cashion,73016,Superior Pipeline Company LLC,Superior Pipeline Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-10874481,4272991
+Kingfisher,OK,Kingfisher,180,135.00000000000,1200,0,3600,Cashion,73016,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10871346,4271062
+Crescent,OK,Logan,40,36.00000000000,1200,0,1800,Crescent,73028,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10867805,4297174
+Harrah Plant,OK,Lincoln,40,32.00000000000,1250,0,29525,Harrah,73045,Kinder Morgan (Scissortail Energy LLC),Kinder Morgan (Scissortail Energy LLC),"EIA-757, Natural Gas Processing Plant Survey",-10813987,4233698
+Maysville Plant,OK,Garvin,135,123.63000000000,1238,0,3230,Maysville,73057,Oneok Field Services,Oneok Field Services,"EIA-757, Natural Gas Processing Plant Survey",-10846038,4141216
+Chitwood,OK,Grady,90,88.00000000000,1250,0,4000,Ninnekah,73067,DCP Midstream,DCP Midstream Partners LP,"EIA-757, Natural Gas Processing Plant Survey",-10899089,4150722
+Woodward Gas Plant,OK,Woodward,80,56.96000000000,1162,0,1500,Woodward,73801,ONEOK Partners,ONEOK Partners,"EIA-757, Natural Gas Processing Plant Survey",-11069212,4366699
+COX CITY,OK,GRADY,180,121.00000000000,1140,0,3333,RUSH SPRINGS,73082,ENABLE PRODUCTS LLC,ENABLE PRODUCTS LLC,"EIA-757, Natural Gas Processing Plant Survey",-10898540,4133464
+Minco Plant,OK,Grady,10,4.50000000000,1100,0,700,Tuttle,73089,Superior Pipeline Company LLC,Superior Pipeline Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-10889070,4196740
+Mustang,OK,Grady,34,32.00000000000,1160,0,1667,Tuttle,73089,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10886417,4199875
+Southern Dome Plant,OK,Oklahoma,18,10.00000000000,1170,0,3500,Oklahoma City,73149,Kinder Morgan (Scissortail Energy LLC),Kinder Morgan (Scissortail Energy LLC),"EIA-757, Natural Gas Processing Plant Survey",-10852463,4216928
+Sholem Alechem,OK,Stephens-Carter,60,55.00000000000,1235,0,5950,Countyline,73425,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10859776,4089857
+Elmore City,OK,Garvin,26,14.64500000000,1280,0,106,Elmore City,73433,Cimarex Energy Co.,Cimarex Energy Co.,"EIA-757, Natural Gas Processing Plant Survey",-10843272,4112915
+Fox Plant,OK,Carter,23,20.00000000000,1250,0,1450,Healdton,73438,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10853590,4067330
+MADILL GAS PLANT,OK,MARSHALL,50,40.00000000000,1200,0,3800,MADILL,73446,"MADILL GAS PROCESSING COMPANY, LLC",CARRERA OPERATING COMPANY,"EIA-757, Natural Gas Processing Plant Survey",-10773278,4040835
+Stephens Plant,OK,Stephens,30,27.63000000000,1169,0,175,Velma,73491,ONEOK Field Services,ONEOK Field Services,"EIA-757, Natural Gas Processing Plant Survey",-10867175,4092198
+Velma Gas Processing Plant,OK,Stephens,160,151.14800000000,1210,0,4500,Velma,73491,Targa Pipeline Mid-Continent LLC,Targa Pipeline Mid-Continent LLC,"EIA-757, Natural Gas Processing Plant Survey",-10870065,4090974
+CLINTON,OK,CUSTER,120,111.00000000000,1240,0,0,CLINTON,73601,"Enable Products, LLC","Enable Products, LLC","EIA-757, Natural Gas Processing Plant Survey",-11016829,4230279
+Arapahoe Plant (I and II),OK,Custer,225,170.00000000000,1170,0,0,Butler,73625,"MarkWest Oklahoma Gas Company, LLC","MarkWest Oklahoma Gas Company, LLC","EIA-757, Natural Gas Processing Plant Survey",-11041840,4256270
+CANUTE,OK,WASHITA,60,51.00000000000,1180,0,0,CANUTE,73626,ENABLE PRODUCTS LLC,ENABLE PRODUCTS LLC,"EIA-757, Natural Gas Processing Plant Survey",-11050487,4227562
+Panther Creek Plant,OK,Washita,78,77.81000000000,1141,0,750,Canute,73626,ONEOK Field Services,ONEOK Field Services,"EIA-757, Natural Gas Processing Plant Survey",-11051693,4221291
+Foss Compressor Station,OK,Custer,6,4.00000000000,1100,0,428,Foss,73628,"Continuum Midstream, LLC","Continuum Midstream, LLC","EIA-757, Natural Gas Processing Plant Survey",-11092363,4244055
+Roger Mills,OK,Roger Mills,100,30.00000000000,1065,0,1200,Cheyenne,73628,Enable Midstream,Enable Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11101045,4242850
+Custer Plant,OK,Custer,80,76.38000000000,1181,0,550,Custer City,73639,ONEOK Field Services,ONEOK Field Services,"EIA-757, Natural Gas Processing Plant Survey",-11019150,4267877
+Elk City Gas Plant,OK,Beckham,150,42.00000000000,1200,0,1070,Elk City,73644,Enbridge G & P (Oklahoma) L.P.,Enbridge G & P (Oklahoma) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11065876,4225245
+Sweetwater Plant,OK,Beckham,120,101.00000000000,1200,0,1214,Sayre,73644,Enbridge G & P (Oklahoma) L.P.,Enbridge G & P (Oklahoma) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11069493,4220904
+Leedey Plant,OK,Dewey,50,28.85000000000,1198,0,2850,Leedey,73654,ONEOK Field Services,ONEOK Field Services,"EIA-757, Natural Gas Processing Plant Survey",-11062337,4289973
+Nine Mile Gas Plant,OK,Dewey,140,100.00000000000,1140,0,1214,Leedey,73654,Enbridge G&P (Oklahoma) L.P.,Enbridge G&P (Oklahoma) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11061854,4281291
+Chester Gas Processing Plant,OK,Woodward,30,28.63200000000,1120,0,0,Seiling,73663,Targa Pipeline Mid-Continent WestOk LLC,Targa Pipeline Mid-Continent WestOk LLC,"EIA-757, Natural Gas Processing Plant Survey",-11004268,4317113
+Cimarron,OK,Woodward,65,60.00000000000,1100,0,1906,Seiling,73663,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11009815,4315424
+THOMAS,OK,CUSTER,150,127.00000000000,1150,0,0,THOMAS,73669,ENABLE PRODUCTS LLC,ENABLE PRODUCTS LLC,"EIA-757, Natural Gas Processing Plant Survey",-10991736,4263390
+Spring Valley Gas Plant,OK,Garfield,17,11.90000000000,1190,0,400,Enid,73701,Mustang Ventures CO,"Mustang Ventures, LLC","EIA-757, Natural Gas Processing Plant Survey",-10885508,4359646
+Rose Valley,OK,Woods,200,200.00000000000,1123,0,0,Alva,73717,"SemGas, LP","SemGas, LP","EIA-757, Natural Gas Processing Plant Survey",-10984982,4418247
+Waynoka Gas Processing Plant,OK,Woods,440,400.00000000000,1150,1,0,Alva,73717,Targa Pipeline Mid-Continent WestOk LLC,Targa Pipeline Mid-Continent WestOk LLC,"EIA-757, Natural Gas Processing Plant Survey",-10995352,4417282
+Carmen,OK,Alfalfa,65,25.00000000000,1180,0,2000,Carmen,73726,"Eagle Chief Midstream, LLC (subsidiary of Caballo Energy)","Eagle Chief Midstream, LLC","EIA-757, Natural Gas Processing Plant Survey",-10958152,4381227
+Eagle Chief Plant,OK,Alfalfa,30,10.00000000000,1180,0,1500,Carmen,73726,"Eagle Chief Midstream, LLC (subsidiary of Caballo Energy LLC)","Eagle Chief Midstream, LLC","EIA-757, Natural Gas Processing Plant Survey",-10964664,4380745
+Hopeton,OK,,140,130.00000000000,1142,0,350,Dacoma,73731,"SemGas, LP","SemGas, LP","EIA-757, Natural Gas Processing Plant Survey",-10975867,4389510
+Dover-Hennessey Gas Plant,OK,Kingfisher,50,36.00000000000,1000,0,600,Hennessey,73742,Mustang Ventures CO,"Mustang Gas Products, LLC","EIA-757, Natural Gas Processing Plant Survey",-10901858,4314177
+Nash,OK,,40,27.00000000000,1168,0,200,Nash,73761,"SemGas, LP","SemGas, LP","EIA-757, Natural Gas Processing Plant Survey",-10915571,4392677
+Okarche,OK,Kingfisher,165,150.00000000000,1165,0,3095,Okarche,73762,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10905748,4261234
+Chaney Dell Gas Processing Plant,OK,Major,35,31.25300000000,1190,0,1518,Ringwood,73768,Targa Pipeline Mid-Continent WestOk LLC,Targa Pipeline Mid-Continent WestOk LLC,"EIA-757, Natural Gas Processing Plant Survey",-10939109,4344796
+Ringwood,OK,Major,15,9.00000000000,1160,0,50,Ringwood,73768,Mustang Ventures CO,"Mustang Gas Products, LLC","EIA-757, Natural Gas Processing Plant Survey",-10942244,4349860
+Spring Creek,OK,Grant,4,0.85000000000,1,0,710,Wakita,73771,Superior Pipeline Company LLC,Superior Pipeline Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-10900460,4423892
+Matli Plant,OK,Blaine,25,5.00000000000,1140,0,914,Watonga,73772,Kinder Morgan,Kinder Morgan,"EIA-757, Natural Gas Processing Plant Survey",-10956822,4281402
+Rodman,OK,Garfield,70,57.00000000000,1170,0,177,Waukomis,73773,Mustang Ventures CO,"Mustang Gas Products, LLC","EIA-757, Natural Gas Processing Plant Survey",-10900903,4336530
+Mooreland,OK,Woodward,130,100.00000000000,1180,0,4117,Mooreland,73852,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11033601,4367091
+CAMRICK GAS PLANT,OK,BEAVER,10,5.00000000000,1140,0,500,BALKO,73931,"CAMRICK GAS PROCESSING COMPANY, LLC",CARRERA OPERATING COMPANY,"EIA-757, Natural Gas Processing Plant Survey",-11220188,4384115
+Beaver Gas Processing,OK,Beaver,95,75.00000000000,1196,0,2715,Beaver,73932,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11177278,4397680
+Mocane Station,OK,Beaver,55,34.00000000000,1182,0,714,Beaver,73932,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11187889,4399610
+Dry Trail,OK,Texas,100,93.00000000000,1006,0,500,Guymon,73942,Breitburn Operating LP,Breitburn Operating LP,"EIA-757, Natural Gas Processing Plant Survey",-11316741,4411671
+"Timberland Gathering & Processing Company, Inc.",OK,Texas,60,14.00000000000,1030,0,1430,Tyrone,73951,XTO Energy,XTO Energy,"EIA-757, Natural Gas Processing Plant Survey",-11244228,4430464
+OSAGE HILLS GAS PLANT,OK,OSAGE,5,3.00000000000,1200,0,500,BARNSDALL,74002,"OSAGE HILLS PIPELINE COMPANY, LLC",CARRERA OPERATING COMPANY,"EIA-757, Natural Gas Processing Plant Survey",-10702702,4377415
+Glenpool (Creek) Plant,OK,Tulsa,25,4.00000000000,1146,0,1500,Tulsa,74033,Kinder Morgan (Scissortail Energy LLC),Kinder Morgan (Scissortail Energy LLC),"EIA-757, Natural Gas Processing Plant Survey",-10687505,4293188
+Perkins Plant,OK,Payne,20,16.00000000000,1250,0,700,Perkins,74059,Superior Pipeline Company LLC,Superior Pipeline Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-10803802,4294981
+Mehan Gas Plant,OK,Payne,2,1.00000000000,1250,0,700,Stillwater,74074,Tag Petroleum Inc,Tag Petroleum Inc,"EIA-757, Natural Gas Processing Plant Survey",-10806481,4311779
+Milfay Plant,OK,Creek,15,6.00000000000,1169,0,950,Stroud,74079,Kinder Morgan (Scissortail Energy LLC),Kinder Morgan (Scissortail Energy LLC),"EIA-757, Natural Gas Processing Plant Survey",-10759682,4265829
+Atoka Gas Processing Plant,OK,Atoka,20,12.25300000000,0,0,0,Atoka,74525,TPL Arkoma Midstream LLC,TPL Arkoma Midstream LLC,"EIA-757, Natural Gas Processing Plant Survey",-10703103,4076003
+Northridge Plant,OK,Hughes,200,60.00000000000,1133,0,5714,Calvin,74531,"EnLink Midstream Services, LLC","EnLink Midstream Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-10714740,4148571
+Coalgate Plant,OK,Coal,13,4.11000000000,1106,0,714,Coalgate,74538,"Enable Midstream Partners, LP","Enable Midstream Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-10715104,4104288
+Coalgate/Stonewall Gas Plant,OK,Coal,240,176.30500000000,1200,0,0,Coalgate,74538,TPL Arkoma Midstream LLC,TPL Arkoma Midstream LLC,"EIA-757, Natural Gas Processing Plant Survey",-10709798,4111040
+Tupelo Gas Processing Plant,OK,Coal,120,108.53400000000,1210,0,0,Coalgate,74538,TPL Arkoma Holdings LLC,TPL Arkoma Holdings LLC,"EIA-757, Natural Gas Processing Plant Survey",-10720409,4097053
+Burbank Plant,OK,Osage,10,6.00000000000,1175,0,1700,Burbank,74633,Kinder Morgan (Scissortail Energy LLC),Kinder Morgan (Scissortail Energy LLC),"EIA-757, Natural Gas Processing Plant Survey",-10774866,4397821
+OSAGE GAS PLANT,KS,OSAGE,12,4.00000000000,1330,0,1285,FAIRFAX,74637,LUMEN MIDSTREAM PARTNERSHIP LLC,LUMEN MIDSTREAM PARTNERSHIP LLC,"EIA-757, Natural Gas Processing Plant Survey",-10761781,4379571
+Bellmon Plant,OK,Kay,90,37.00000000000,1190,0,700,Tonkawa,74653,Superior Pipeline Company LLC,Superior Pipeline Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-10837141,4390593
+Paden Plant,OK,Okfuskee,100,74.00000000000,1235,0,1550,Paden,74860,Kinder Morgan (Scissortail Energy LLC),Kinder Morgan (Scissortail Energy LLC),"EIA-757, Natural Gas Processing Plant Survey",-10749878,4235989
+WETUMKA,OK,HUGHES,60,35.00000000000,1150,0,2857,WETUMKA,74883,ENABLE PRODUCTS LLC,ENABLE PRODUCTS LLC,"EIA-757, Natural Gas Processing Plant Survey",-10712533,4194645
+Osborne Plant,TX,Roberts,25,0.00000000000,1236,0,476,Miami,79059,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11237633,4297138
+Sherman,TX,,20,20.00000000000,1266,0,350,Sherman,75092,"SemGas, LP","SemGas, LP","EIA-757, Natural Gas Processing Plant Survey",-10764602,3981757
+Eustace Gas Plant,TX,Henderson,58,21.04200000000,998,0,312,Eustace,75124,Tristream East Texas LLC,Tristream East Texas LLC,"EIA-757, Natural Gas Processing Plant Survey",-10683603,3806283
+New Hope,TX,Franklin,10,8.00000000000,1029,0,3140,Scroggins,75163,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-10697843,3788022
+Trinidad,TX,Henderson,65,53.00000000000,1041,0,714,Trinidad,75163,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-10695913,3782234
+Longview Plant,TX,Gregg,120,115.00000000000,1085,0,400,Longview,75603,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-10542968,3815740
+Longview Gas Plant,TX,Gregg,50,20.00000000000,1270,0,7850,Longview,75604,Costar Midstream LLC,Gas Solutions II Ltd,"EIA-757, Natural Gas Processing Plant Survey",-10552787,3830958
+Avinger,TX,Cass,85,80.00000000000,1070,0,3000,Avinger,75630,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-10525557,3878636
+East Texas,TX,Panola,720,600.00000000000,1175,0,185000,Carthage,75631,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10514604,3796033
+East Texas Gas Plant,TX,,400,395.00000000000,1140,0,0,Carthage,75633,"MarkWest Energy East Texas Gas Company, LLC",MarkWest Energy East Texas Gas Company,"EIA-757, Natural Gas Processing Plant Survey",-10499573,3782255
+Rosewood Plant,TX,Upshur,12,4.80000000000,1103,0,467,Gilmer,75644,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10574901,3868028
+Duncan Gas Processing Plant,TX,Rusk,40,30.00000000000,1098,0,714,Henderson,75652,Enterprise Gathering LLC,Enterprise Gathering LLC,"EIA-757, Natural Gas Processing Plant Survey",-10546977,3793754
+Henderson,TX,Rusk,280,190.00000000000,1084,0,800,Henderson,75654,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-10552000,3778204
+Crossroads,TX,Harrison,60,60.00000000000,1025,0,0,Marshall,75672,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10496860,3825011
+Waskom Gas Processing,TX,Harrison,300,261.00000000000,1080,0,43688,Waskom,75692,Waskom Gas Processing,"Enable Midstream Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-10474252,3822458
+Tyler Gas Plant,TX,Smith,2,1.00000000000,1098,0,1000,Tyler,75704,J-W Gathering Company,J-W Gathering Company,"EIA-757, Natural Gas Processing Plant Survey",-10624481,3816925
+SHAMBURGER LAKE UNIT PIPELINE,TX,SMITH,2,0.12000000000,1235,0,355,TYLER,75706,VALENCE OPERATING COMPANY,VALENCE OPERATING COMPANY,"EIA-757, Natural Gas Processing Plant Survey",-10611944,3820376
+Hawkins Gas Plant,TX,Wood,180,159.05000000000,351,0,900,Hawkins,75765,"XTO Energy, Inc.","XTO Energy, Inc.","EIA-757, Natural Gas Processing Plant Survey",-10601528,3847827
+Neches Field Plant,TX,Cherokee,2,1.00000000000,1300,0,600,Jacksonville,75766,Breitburn Energy Partners LP,Breitburn Energy Partners LP,"EIA-757, Natural Gas Processing Plant Survey",-10603948,3756251
+Hainesville Gas Plant,TX,Wood,16,2.00000000000,1210,0,2227,Mineola,75773,Hainesville Gas Gathering Corporation,Energy Production Corporation,"EIA-757, Natural Gas Processing Plant Survey",-10624988,3852742
+Fairway Gas Plant,TX,Henderson,88,40.00000000000,1002,0,1086,Poynor,75770,Exxon Corporation (26.46%),"Vanguard Operating, LLC","EIA-757, Natural Gas Processing Plant Survey",-10647572,3781514
+Van Plant,TX,Van Zandt,1,0.60000000000,1370,0,1142,Van,75790,UNOCAL-CNAEP,UNOCAL-CNAEP,"EIA-757, Natural Gas Processing Plant Survey",-10646887,3833388
+Chapel Hill Gas Plant,TX,Smith,25,17.00000000000,1070,0,4850,Winona,75792,Costar Midstream LLC,Gas Solutions II Ltd,"EIA-757, Natural Gas Processing Plant Survey",-10586703,3826050
+Farrar BOA,TX,Limestone,330,196.00000000000,1009,0,3000,Jewett,75846,XTO Energy Inc.,XTO Energy Inc.,"EIA-757, Natural Gas Processing Plant Survey",-10697690,3671181
+Brookeland Gas Plant,TX,Jasper,95,70.00000000000,1165,0,0,Brookeland,75931,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10464459,3647148
+Stockman Plant,TX,Shelby,15,1.00000000000,1070,0,714,Center,75935,Enable Midstream Partners,Enable Midstream Partners,"EIA-757, Natural Gas Processing Plant Survey",-10486472,3728273
+Joaquin Plant,TX,Shelby,40,5.00000000000,1070,0,1191,Joaquin,75954,Enable Midstream Partners,Enable Midstream Partners,"EIA-757, Natural Gas Processing Plant Survey",-10470090,3753265
+Azle Plant,TX,Parker,50,35.00000000000,1155,0,1373,Azle,76020,"EnLink Texas Processing, LP","EnLink Texas Processing, LP","EIA-757, Natural Gas Processing Plant Survey",-10860937,3882043
+Cowtown/Corvette Plant,TX,Hood,300,195.00000000000,1190,0,7857,Cleburne,76033,Cowtown Gas Processing Partners L.P.,Cowtown Gas Processing Partners LP,"EIA-757, Natural Gas Processing Plant Survey",-10858032,3792783
+GODLEY GAS PLANT,TX,JOHNSON,700,420.00000000000,1170,0,10000,GODLEY,76044,ENERGY TANSFER PARTNERS,ENERGY TANSFER PARTNERS,"EIA-757, Natural Gas Processing Plant Survey",-10858498,3819573
+Enbridge G&P (North Texas LP),TX,Parker,65,55.00000000000,1290,0,10714,Springtown,76082,Enbridge G&P (North Texas LP),,"EIA-757, Natural Gas Processing Plant Survey",-10876130,3889730
+Silver Creek Plant,TX,Parker,200,180.00000000000,1168,0,1287,Weatherford,76087,"EnLink Texas Processing, LP","EnLink Texas Processing, LP","EIA-757, Natural Gas Processing Plant Survey",-10885115,3851686
+Weatherford,TX,Parker,70,62.00000000000,1230,0,430,Weatherford,76088,Enbridge G & P (North Texas) L.P.,Enbridge G & P (North Texas) L.P,"EIA-757, Natural Gas Processing Plant Survey",-10898338,3874870
+Goforth Plant,TX,Parker,30,25.00000000000,1210,0,75,Ft. Worth,76126,"EnLink Texas Processing, LP","EnLink Texas Processing, LP","EIA-757, Natural Gas Processing Plant Survey",-10855024,3846802
+Kripple Kreek Gas Plant,TX,Montague,180,113.00000000000,1189,0,5714,Bowie,76230,Pecan Pipeline Company,Pecan Pipeline Company,"EIA-757, Natural Gas Processing Plant Survey",-10906205,3959758
+Longhorn Gas Plant,TX,Wise,200,200.00000000000,1188,0,0,Decatur,76234,Targa Gas Processing LLC,Targa Midstream Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10860051,3927606
+Sweetwater Creek Plant,TX,Wise,45,13.00000000000,1114,0,5720,Decatur,76234,J-W Pipeline Company,J-W Pipeline Company,"EIA-757, Natural Gas Processing Plant Survey",-10855228,3931465
+Saint Jo Processing Plant,TX,Montague,110,105.00000000000,1105,0,0,Montague,76251,"KinderMorgan - Copano Field Services/North Texas, LLC","KinderMorgan - Copano Field Services/North Texas, LLC","EIA-757, Natural Gas Processing Plant Survey",-10874778,3977996
+Longhorn Gas Plant,TX,Archer,2,0.19000000000,1292,0,800,Wichita Falls,76310,Enerfin Resources Company,Enerfin Resources II-92 LP,"EIA-757, Natural Gas Processing Plant Survey",-10959685,3999880
+Tecumseh Gas Plant,OK,Pottawatomie,20,11.00000000000,1387,0,1145,Tecumseh,76310,Enerfin Resources Company,Enerfin Resources I LP,"EIA-757, Natural Gas Processing Plant Survey",-10966197,4001809
+ELECTRA GAS PLANT,TX,WILBARGER,1,1.00000000000,1500,0,1437,ELECTRA,76360,"LAYLINE NORTH TEXAS, LLC","LAYLINE ENERGY I, LLC","EIA-757, Natural Gas Processing Plant Survey",-11008734,4026734
+Bridwell River Ranch Gas Plant,TX,Clay,0,0.07000000000,1200,0,700,,76365,Bridwell Oil Company,Bridwell Oil Company,"EIA-757, Natural Gas Processing Plant Survey",-10931756,3996369
+Huckabay,TX,Erath,20,19.00000000000,1220,0,1833,Stephenville,76401,"Enbridge G&P (North Texas), L.P.","Enbridge G&P (North Texas), L.P.","EIA-757, Natural Gas Processing Plant Survey",-10931443,3800461
+Bridgeport Plant,TX,Wise,800,674.00000000000,1168,0,48415,Bridgeport,76426,"EnLink Midstream Services, LLC","EnLink Midstream Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-10891803,3917467
+Shackelford Plant,TX,Shackelford,15,9.00000000000,1188,0,4528,Albany,76430,"Targa Midstream Services, LLC","Targa Midstream Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-11047588,3865489
+Chico Plant,TX,Wise,265,265.00000000000,1188,0,17383,Chico,76431,Targa Midstream Services LLC,Targa Midstream Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-10893350,3937520
+Shackelford Plant,TX,Eastland,15,6.26000000000,1267,0,750,Cisco,76437,"DGP Taurus GP Holding, LLC","Davis Gas Processing, INC","EIA-757, Natural Gas Processing Plant Survey",-11023264,3815395
+Indian Mound,TX,Young,0,0.11000000000,0,0,1429,Graham,76450,"Advance NGL, Inc.","Advance NGL, Inc.","EIA-757, Natural Gas Processing Plant Survey",-10970979,3902478
+Gordon,TX,Palo Pinto,40,25.00000000000,1250,0,3600,Gordon,76453,"Enbridge G&P (North Texas), L.P.","Enbridge G&P (North Texas), L.P.","EIA-757, Natural Gas Processing Plant Survey",-10947350,3840444
+Lone Camp,TX,Palo Pinto,40,30.00000000000,1250,0,714,Gordon,76453,"Enbridge G&P (North Texas), L.P.","Enbridge G&P (North Texas), L.P.","EIA-757, Natural Gas Processing Plant Survey",-10945662,3835138
+Markley Plant,TX,Jack & Young,0,0.03000000000,1140,0,500,Jermyn,76459,,"W. W. Sub, Inc.","EIA-757, Natural Gas Processing Plant Survey",-10952466,3931736
+Tolar Plant/Black Diamond,TX,Hood,155,33.00000000000,1270,0,1430,Tolay,76476,,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10900347,3811519
+Worsham-Steed Cryogenic Gas Plant,TX,Jack,60,43.00000000000,1065,0,0,Perrin,76486,"NorTex Midstream Partners, LLC","Worsham-Steed Gas Storage, LLC","EIA-757, Natural Gas Processing Plant Survey",-10916229,3898345
+Sutton Sonora Plant,TX,Sutton,62,62.00000000000,1175,0,4523,Sonora,76950,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11194328,3559882
+Rothermel Conditioning Plant,TX,Limestone,30,23.00000000000,1080,0,1429,Groesbeck,76642,"Devon Gas Services, L.P.","Devon Gas Services, L.P.","EIA-757, Natural Gas Processing Plant Survey",-10744289,3698023
+CONCHO GAS PLANT,TX,CONCHO,10,1.00000000000,1157,0,1500,PAINT ROCK,76866,"DAVIS GAS PROCESSING, INC","DAVIS GAS PROCESSING, INC","EIA-757, Natural Gas Processing Plant Survey",-11123915,3692744
+IRION COUNTY PLANT,TX,IRION,16,7.00000000000,1258,0,1500,BARNHART,76930,"DAVIS GAS PROCESSING, INC","DAVIS GAS PROCESSING, INC","EIA-757, Natural Gas Processing Plant Survey",-11267189,3652306
+Mertzon Plant,TX,Irion,52,46.00000000000,1239,0,7658,Mertzon,76941,Targa Resources,Targa Resources,"EIA-757, Natural Gas Processing Plant Survey",-11233438,3667607
+Ozona,TX,Crockett,32,9.00000000000,1290,0,648,Ozona,76943,Chevron,Chevron,"EIA-757, Natural Gas Processing Plant Survey",-11258307,3572328
+Ozona Gas Processing Plant,TX,Crockett,120,85.00000000000,1160,0,15833,Ozona,76943,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11271812,3546523
+Southwest Ozona,TX,Crockett,90,85.00000000000,1160,0,1429,Ozona,76943,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11261201,3556893
+JAMESON PLANT,TX,COKE,45,37.00000000000,1360,0,11000,SILVER,76949,"WTG JAMESON, LP","WTG JAMESON, LP","EIA-757, Natural Gas Processing Plant Survey",-11209063,3768800
+Sonora Plant,TX,Sutton,120,95.00000000000,1141,0,750,Sonora,76950,Enterprise Hydrocarbons LP,Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-11194328,3559882
+Sterling Plant,TX,Sterling,62,47.00000000000,1250,0,1610,Sterling City,76951,Targa Resources,Targa Resources,"EIA-757, Natural Gas Processing Plant Survey",-11248435,3739038
+Mount Pearl Gas Plant,TX,Harris,3,1.00000000000,1227,0,1429,Houston,77069,,Citation Oil & Gas Corp,"EIA-757, Natural Gas Processing Plant Survey",-10633238,3502325
+Pineview Gas Plant,TX,Harris,2,1.00000000000,1870,0,5000,Houston,77069,,Citation Oil & Gas Corp,"EIA-757, Natural Gas Processing Plant Survey",-10633726,3501715
+Conroe Plant,TX,Montgomery,36,36.00000000000,1080,0,230,Conroe,77302,Southcross Energy GP LLC,Southcross Gathering Ltd.,"EIA-757, Natural Gas Processing Plant Survey",-10615317,3532164
+Huntsville Gas Plant,TX,Walker,50,34.00000000000,1170,0,4285,Huntsville,77320,Copano Processing LLC,Copano Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-10636672,3607320
+Indian Springs Gas Plant,TX,Polk,146,125.00000000000,1160,0,1068,Livingston,77351,"TECO Gas Processing, LLC",Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10555536,3595540
+Thompsonville Gas Plant,TX,Jim Hogg,330,305.00000000000,1140,0,0,Mirando City,77369,Enterprise Hydrocarbons L.P.,Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10546988,3558114
+Markham Gas Processing Plant,TX,Matagorda,500,395.38000000000,1042,0,0,Markham,77456,Williams Field Services-Gulf Coast Company LP,Williams Field Services-Gulf Coast Company LP,"EIA-757, Natural Gas Processing Plant Survey",-10696911,3369730
+Houston Central Plant,TX,Colorado,1000,837.00000000000,1150,0,24608,Sheridan,77475,Copano Processing LLC,Copano Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-10759616,3437113
+Old Ocean,TX,Brazoria,180,95.00000000000,1100,0,7500,Sweeny,77480,Arrowhead Pipeline L.P.,Harvest Pipeline,"EIA-757, Natural Gas Processing Plant Survey",-10660625,3387405
+Texas City Processing Plant,TX,Galveston,40,40.00000000000,1085,0,600,Texas City,77590,Kinder Morgan Tejas Pipeline LLC,Kinder Morgan Tejas Pipeline LLC,"EIA-757, Natural Gas Processing Plant Survey",-10566434,3425486
+CIPCO Supersystem,TX,Jefferson,400,140.00000000000,1143,0,900,Port Arthur,77640,DCP Southeast Texas Plants,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10457469,3488278
+OSR-Halliday Unit LPG,TX,Madison,2,1.80000000000,1200,0,1800,Madisonville,77864,Woodbine Production Corp,Woodbine Production Corp,"EIA-757, Natural Gas Processing Plant Survey",-10676165,3626789
+Eagle Plant,TX,Jackson,200,175.00000000000,1275,0,1238,Edna CR 282,77957,DCP Midstream,DCP MIDSTREAM PARTNERS LP,"EIA-757, Natural Gas Processing Plant Survey",-10762960,3372721
+"Flag City Processing Partners, LLC",TX,Jackson,150,55.00000000000,1236,0,0,Edna,77957,"Broadwalk Midstream, LLC","Broadwalk Field Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-10764648,3380438
+Wilcox Gas Plant,TX,Lavaca,240,188.00000000000,1102,0,9857,Hallettsville,77964,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10780614,3423694
+Formosa Hydrocarbons Company,TX,Calhoun,200,175.00000000000,1250,0,7000,Point Comfort,77978,Formosa Hydrocarbons Company,Formosa Hydrocarbons Company,"EIA-757, Natural Gas Processing Plant Survey",-10750397,3333282
+Armstrong,TX,Dewitt,250,229.00000000000,1201,0,16142,Yoakum,77995,Enterprise Hydrocarbons L.P.,Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10802464,3396606
+Yoakum Gas Processing Plant,TX,Lavaca,300,300.00000000000,1250,0,0,Yoakum,77995,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC","EIA-757, Natural Gas Processing Plant Survey",-10807287,3402635
+Three Rivers,TX,Live Oak,95,85.00000000000,1155,0,1380,George West,78022,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10934450,3273103
+McMullen,TX,McMullen,5,4.00000000000,1260,0,760,Tilden,78072,Houston Pipeline Company,Houston Pipeline Company,"EIA-757, Natural Gas Processing Plant Survey",-10974444,3287077
+Goliad,TX,Goliad,23,17.70000000000,1277,0,0,Berclair,78107,DCP Midstream,DCP Midstream LP,"EIA-757, Natural Gas Processing Plant Survey",-10861891,3318405
+San Martin Plant,TX,Bexar,200,55.00000000000,1260,0,0,Elmendorf,78112,Enterprise Hydrocarbons L.P.,Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10950682,3402759
+Silver Oak Gas Processing Plant,TX,Bee,400,142.67400000000,1250,0,0,Tuleta,78162,TPl SouthTex Pipeline Company LLC,TPl SouthTex Pipeline Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-10884096,3323560
+Gulf Plains Gas Plant,TX,Nueces,170,143.00000000000,1200,0,3475,Bishop,78343,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10890639,3201583
+La Gloria,TX,Jim Wells,265,160.00000000000,1130,0,34120,Falfurrias,78355,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10923827,3144094
+Shilling Gas Plant,TX,Webb,110,110.00000000000,1200,0,0,Freer,78357,Enterprise Hydrocarbons L.P.,Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10967861,3242815
+Gregory,TX,San Patricio,120,66.00000000000,1135,0,6428,Gregory,78359,Southcross Energy GP LLC,Southcross Gathering Ltd.,"EIA-757, Natural Gas Processing Plant Survey",-10829948,3239338
+King Ranch Gas Plant,TX,Kleburg,800,400.00000000000,1134,0,141500,Kingsville,78363,ExxonMobile Production Company,ExxonMobil Production Company,"EIA-757, Natural Gas Processing Plant Survey",-10894002,3179736
+Woodsboro Plant,TX,Refugio,200,155.00000000000,1210,0,2000,Woodsboro,78393,Southcross Energy GP LLC,Southcross Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-10838964,3274205
+Shoup Gas Plant,TX,Nueces,285,255.00000000000,1120,0,1700,Corpus Christi,78410,Enterprise Hydrocarbons LP,Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10864401,3228633
+Delmita Gas Plant,TX,Starr,130,117.00000000000,1135,0,700,Delmita,78536,Enterprise Hydrocarbons L.P.,Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10959530,3079723
+Gilmore Gas Plant,TX,Hidalgo,265,225.00000000000,1140,0,900,Edinburg,78541,Enterprise Hydrocarbons LP,Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10940954,3054686
+Luling Gas Plant,TX,Caldwell,5,1.10000000000,1230,0,0,Prairie Lea,78661,"Davis Gas Processing, Inc","Davis Gas Processing, Inc","EIA-757, Natural Gas Processing Plant Survey",-10881539,3467837
+North Fayette Sweetening Plant,TX,Fayette,10,2.00000000000,1130,0,600,Giddings,78942,Progenies Operating LLC,Progenies Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-10789323,3525305
+Austin Giddings,TX,Fayette,95,90.00000000000,1218,0,7238,La Grange,78945,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-10778458,3490788
+Chisholm Plant,TX,Fayette,120,120.00000000000,1275,0,1000,LaGrange,78945,Energy Transfer,Energy Transfer,"EIA-757, Natural Gas Processing Plant Survey",-10787622,3486206
+LaGrange Plant,TX,Fayette,205,155.00000000000,1275,0,1700,LaGrange,78945,Energy Transfer,Energy Transfer,"EIA-757, Natural Gas Processing Plant Survey",-10785693,3492718
+Allison Gas Plant,TX,Wheeler,150,122.00000000000,1169,0,0,,79003,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11142489,4242989
+Panhandle Superplant,TX,,475,343.00000000000,1200,0,20307,,79007,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11287564,4259387
+Woodall Plant,TX,Hemphill,60,38.00000000000,1190,0,430,Brisco,79011,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11157731,4245407
+Zybach,TX,Wheeler,164,93.00000000000,1169,0,952,Briscoe,79011,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11157489,4250471
+Hemphill Plant,TX,Hemphill,50,48.00000000000,1254,0,2143,Canadian,79014,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11168751,4296991
+Hobart Cryo Plant,TX,Hemphill,30,7.00000000000,1176,0,1000,Canadian,79014,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11154522,4292650
+Hobart Ranch Gas Plant,TX,Hemphill,125,0.00000000000,1140,0,0,Canadian,79014,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11169956,4281074
+Phoenix Arrington Ranch Plant,TX,Hemphill,60,32.00000000000,1200,0,1400,Canadian,79014,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11165133,4288550
+Lefors Plant,TX,Gray,5,5.00000000000,1300,0,858,Lefors,79054,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11223130,4216110
+MCLEAN PLANT,TX,GRAY,25,10.00000000000,1200,0,300,MCLEAN,79057,"MCLEAN GAS PROCESSING COMPANY, LLC",CARRERA OPERATING COMPANY,"EIA-757, Natural Gas Processing Plant Survey",-11203486,4196958
+Fain Gas Plant,TX,Potter,80,42.00000000000,1360,0,3048,Masterson,79058,Pioneer Natural Resources,Pioneer Natural Resources,"EIA-757, Natural Gas Processing Plant Survey",-11338078,4243425
+Red Deer Plant,TX,Roberts,26,23.00000000000,1200,0,218,Miami,79059,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11237633,4297138
+Gray County Plant,TX,Gray,20,14.96000000000,1600,0,4300,Pampa,79065,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11229433,4237214
+Indian Creek Gas Plant,TX,Roberts,36,23.00000000000,1260,0,1109,Pampa,79065,Crestwood Panhandle Pipeline LLC,Crestwood Panhandle Pipeline LLC,"EIA-757, Natural Gas Processing Plant Survey",-11237633,4239384
+GREY BADGER,TX,CARSON,25,13.00000000000,1300,0,2800,PANHANDLE,79068,"MIDSTREAM ENERGY SERVICES, LLC","MIDSTREAM ENERGY SERVICES, LLC","EIA-757, Natural Gas Processing Plant Survey",-11291851,4210694
+Spearman Plant,TX,Ochiltree,110,100.00000000000,1210,0,1657,Spearman,79081,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11267541,4332415
+Sunray Gas Plant,TX,Moore,165,145.00000000000,1185,0,4050,Sunray,79086,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11329443,4305919
+Hidetown Plant,TX,Wheeler,132,132.00000000000,1121,0,833,Wheeler,79096,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11160049,4228883
+KELTON GAS PLANT,TX,USA,75,18.00000000000,1210,0,2063,WHEELER,79096,KELTON GAS SERVICES - LLC,AKA - FRONTIER FIELD SERVICES,"EIA-757, Natural Gas Processing Plant Survey",-11145579,4227677
+Wheeler,TX,Wheeler,60,30.00000000000,1195,0,0,Kelton,79096,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11161737,4220442
+Wheeler,TX,Wheeler,200,200.00000000000,1200,0,0,Wheeler,79096,"Enable Products, LLC","Enable Products, LLC","EIA-757, Natural Gas Processing Plant Survey",-11153779,4223577
+Cargray Plant,TX,Carson,30,15.00000000000,1340,0,19824,White Deer,79097,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11263143,4223265
+Antelope Hills Plant,TX,Hemphill,135,110.00000000000,1287,0,864,Canadian,79104,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11331057,4191470
+Denver Unit CO2 Recovery Plant,TX,Yoakum,290,275.00000000000,300,0,90000,Denver City,79323,Occidental Permian Ltd,Occidental Permian Ltd,"EIA-757, Natural Gas Processing Plant Survey",-11455217,3882775
+Wasson ODC Unit CO2 Removal Plant,TX,Yoakum,100,96.80000000000,150,0,4000,Denver City,79323,Occidental Permian Ltd,Occidental Permian Ltd,"EIA-757, Natural Gas Processing Plant Survey",-11453770,3891939
+Willard CO2 Recovery Plant,TX,Yoakum,160,150.00000000000,180,0,177,Denver City,79323,Oxy USA WTP,Oxy USA WTP,"EIA-757, Natural Gas Processing Plant Survey",-11446776,3882292
+WPMT NGL,TX,Yoakum,35,14.00000000000,1100,0,0,Denver City,79323,Occidental Permian Ltd,Occidental Permian Ltd,"EIA-757, Natural Gas Processing Plant Survey",-11460040,3887598
+Cedar Hill Gas Plant,TX,GARZA,8,1.15000000000,1279,0,750,POST,79356,"Davis Gas Processing, Inc.","Davis Gas Processing, Inc.","EIA-757, Natural Gas Processing Plant Survey",-11280051,3929742
+Seminole Gas Processing Plant,TX,Gaines,270,0.00000000000,148,0,9000,Seminole,79360,Hess Permian Gas Processing LLC,Hess Permian Gas Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-11437126,3854106
+Slaughter Gasoline Plant,TX,Hockley,35,30.00000000000,1400,0,446000,Sundown,79372,Oxy,Oxy,"EIA-757, Natural Gas Processing Plant Survey",-11408783,3951937
+Slaughter Gasoline Plant (Mallet),TX,Hockley,335,335.00000000000,1250,0,2200,Sundown,79372,Oxy,Oxy,"EIA-757, Natural Gas Processing Plant Survey",-11408958,3953086
+East Vealmoor Plant,TX,Howard,45,39.65000000000,1281,0,750,Coahoma,79511,"West Texas Gas Gas Processing, LP","WTG Gas Processing, LP","EIA-757, Natural Gas Processing Plant Survey",-11272164,3817847
+Hamlin,TX,Fisher,6,5.40000000000,1380,0,570,Hamlin,79520,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11146678,3877384
+Snyder Gasoline Plant,TX,Scurry,90,57.00000000000,1300,0,1000,Snyder,79549,ExxonMobil Corporation,Kinder Morgan CO2,"EIA-757, Natural Gas Processing Plant Survey",-11221254,3876445
+Salt Creek Processing Plant,TX,Kent,150,147.00000000000,1177,0,1300,Snyder,79549,Occidental Permian Ltd.,Occidental Permian Ltd.,"EIA-757, Natural Gas Processing Plant Survey",-11226078,3865592
+Bradford Ranch,TX,Midland,25,8.00000000000,1300,0,0,Midland,79701,Chevron U.S.A. Inc.,Chevron U.S.A. Inc.,"EIA-757, Natural Gas Processing Plant Survey",-11363657,3762311
+Driver Gas Processing Plant,TX,Midland,220,203.47000000000,1250,0,39600,Midland,79706,Targa Pipeline Mid-Continent WestTex LLC,Targa Pipeline Mid-Continent WestTex LLC,"EIA-757, Natural Gas Processing Plant Survey",-11349546,3750769
+High Plains Plant,TX,Midland,200,130.00000000000,1245,0,3714,Midland,79706,Targa Resources,Targa Resources,"EIA-757, Natural Gas Processing Plant Survey",-11365222,3737746
+Spraberry,TX,Midland,60,60.00000000000,1300,0,9500,Midland,79706,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11354852,3743051
+Dollarhide Gas Plant,TX,Andrews,42,1.25000000000,954,0,7200,Andrews,79714,Chevron,Chevron,"EIA-757, Natural Gas Processing Plant Survey",-11414990,3805205
+Fullerton,TX,Andrews,75,72.00000000000,1380,0,2014,Andrews,79714,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11435971,3800864
+MidMar West,TX,Andrews,27,14.60000000000,1300,0,640,Andrews,79714,Coronado Midstream LLC,Coronado Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11425601,3805687
+Rawhide,TX,Sterling,75,50.00000000000,1090,0,630,Bigspring,79720,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11295918,3796647
+Coyanosa,TX,Pecos,125,100.00000000000,1175,0,6000,Coyanosa,79730,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11473214,3659372
+Waha Plant,TX,Pecos,120,120.00000000000,1184,0,0,Pecos,79730,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11475384,3654790
+CGU Cordona Lake Plant,TX,Crane,10,4.64000000000,740,0,443,Crane,79731,XTO Energy Inc,XTO Energy Inc,"EIA-757, Natural Gas Processing Plant Survey",-11400203,3688061
+Crane Gas Plant,TX,Upton,30,25.00000000000,1180,0,0,Crane,79731,Apache Corporation,Apache Corporation,"EIA-757, Natural Gas Processing Plant Survey",-11397403,3681184
+Oxy Block31 Plant,TX,Crane,100,45.90000000000,593,0,100,Crane,79731,Occidental Petroleum,OXY Permian EOC,"EIA-757, Natural Gas Processing Plant Survey",-11407473,3687275
+Sand Hills Gas Plant,TX,Crane,180,153.00000000000,1097,0,3333,Crane,79731,"Targa Midstream Services, LLC","Targa Midstream Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-11401873,3684524
+Gomez Plant,TX,Pecos,84,80.00000000000,950,0,0,Fort Stockton,79735,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11409192,3577806
+Goldsmith,TX,Ector,65,60.00000000000,1325,0,9000,Goldsmith,79741,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11424406,3759404
+Tract 75 Gas Plant,TX,Pecos,72,28.92000000000,200,0,0,Iraan,79744,Kinder Morgan Production Company LLC,Kinder Morgan Production Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-11354025,3627683
+Yates Gas Plant,TX,Pecos,97,38.99000000000,200,0,750,Iraan,79744,Kinder Morgan Production Company LLC,Kinder Morgan Production Company LLC,"EIA-757, Natural Gas Processing Plant Survey",-11367048,3625271
+Halley,TX,Winkler,110,90.00000000000,1225,0,7100,Kermit,79745,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11453048,3739111
+Keystone,TX,Winkler,125,100.00000000000,1200,0,500,Kermit,79745,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11458112,3732358
+Tippett,TX,Upton,55,50.00000000000,1200,0,7500,McCamey,79752,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11371636,3660760
+BENEDUM II PLANT,TX,UPTON,140,72.00000000000,1254,0,0,MIDKIFF,79755,"BEMEDUM GAS PARTNER, LP",WTG BENEDUM JOINT VENTURE LP,"EIA-757, Natural Gas Processing Plant Survey",-11354898,3702078
+Edward Gas Plant,TX,Upton,200,46.58000000000,1250,0,39600,Midkiff,79755,Targa Pipeline Mid-Continent WestTex LLC,Targa Pipeline Mid-Continent WestTex LLC,"EIA-757, Natural Gas Processing Plant Survey",-11346216,3708107
+Midkiff,TX,Reagan,210,193.35600000000,1250,0,1200,Midkiff,79755,Targa Pipeline Mid-Continent WestTex LLC,Targa Pipeline Mid-Continent WestTex LLC,"EIA-757, Natural Gas Processing Plant Survey",-11348869,3691226
+Pegasus,TX,Midland,100,60.00000000000,1287,0,43,Midkiff,79755,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11347663,3698461
+Headlee,TX,Ector,75,60.00000000000,1050,0,1820,Odessa,79762,Chevron U.S.A. Inc.,Four Star Oil and Gas,"EIA-757, Natural Gas Processing Plant Survey",-11394016,3750259
+Roberts Ranch,TX,Midland,70,70.00000000000,1100,0,362,Odessa,79766,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11415343,3724201
+Sale Ranch Gas Plant,TX,MARTIN,140,123.21000000000,1252,0,750,STANTON,79782,"West Texas Gas Gas Processing, LP","WTG GAS PROCESSING, LP","EIA-757, Natural Gas Processing Plant Survey",-11341740,3783767
+MidMar East,TX,Martin,36,29.00000000000,1300,0,2500,Tarzan,79783,Coronado Midstream LLC,Coronado Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11359296,3805613
+Benedum,TX,Upton,45,40.77500000000,1250,0,0,Randkin,79788,Targa Pipeline Mid-Continent WestTex LLC,Targa Pipeline Mid-Continent WestTex LLC,"EIA-757, Natural Gas Processing Plant Survey",-11464797,3705902
+Wattenberg Gas Plant,CO,Adams,250,201.50000000000,1259,0,9500,Aurora,80019,Anadarko Petroleum Company,Anadarko Petroleum Company,"EIA-757, Natural Gas Processing Plant Survey",-11655369,4834780
+Mercy Gas Plant,TX,San Jacinto,0,0.24000000000,1154,0,1000,Cleveland,80202,Kinder Morgan (100% owner of chiller),Hilcorp Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-11688279,4829952
+Bear River,CO,Routt,1,1.00000000000,1,0,8000,Hayden,80293,Moffat Pipeline Corporation,Moffat Pipeline Corporation,"EIA-757, Natural Gas Processing Plant Survey",-11687427,4829137
+Clyde Gasoline Plant,CO,Prowers,2,0.33000000000,1200,0,700,,80401,Prowers Gas Gathering Co. LLC,Prowers Gas Gathering Co. LLC,"EIA-757, Natural Gas Processing Plant Survey",-11714710,4824821
+Eaton,CO,Weld,13,11.00000000000,1175,0,1425,Eaton,80615,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11650762,4942988
+Greeley Plant,CO,Weld,27,25.00000000000,1175,0,17150,Evans,80620,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11657046,4920519
+Platte Valley Gas Plant,CO,Weld,107,107.00000000000,1290,0,19000,Fortt. Lupton,80621,"Kerr McGee Gathering, LLC",Kerr McGee Gathering LLC,"EIA-757, Natural Gas Processing Plant Survey",-11661358,4884782
+Spindle,CO,Weld,36,36.00000000000,1270,0,5000,Ft. Lupton,80621,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11666423,4881646
+Lucerne,CO,Weld,40,38.00000000000,1175,0,3272,Greeley,80631,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11652521,4930302
+O`Connor,CO,Weld,155,150.00000000000,1300,0,2500,Kersey,80644,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11626045,4920951
+Gilcrest Gas Processing Plant,CO,Platteville,22,18.70000000000,1257,0,1857,Platteville,80651,AKA - Frontier Field Services,AKA - Frontier Field Services,"EIA-757, Natural Gas Processing Plant Survey",-11661508,4899218
+Mewbourne,CO,Weld,143,143.00000000000,1175,0,120000,Platteville,80651,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11673325,4897771
+Platteville,CO,Weld,70,60.00000000000,1270,0,3600,Platteville,80651,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11668020,4900424
+Roggen,CO,Weld,75,65.00000000000,1300,0,5950,Roggen,80652,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11608406,4882121
+Lilli Plant,CO,Weld,16,14.24200000000,1338,0,2186,New Raymer,80742,Noble Energy Inc,Noble Midstream Services,"EIA-757, Natural Gas Processing Plant Survey",-11560282,4963583
+Redtail Gas Plant,CO,Weld,20,18.00000000000,1340,0,3810,New Raymer,80742,Whiting Oil and Gas Corporation,Whiting Oil and Gas Corporation,"EIA-757, Natural Gas Processing Plant Survey",-11558112,4975400
+Yenter Gas Plant,CO,Logan,11,9.00000000000,1283,0,7100,Sterling,80751,Sterling Energy Investments LLC,Sterling Energy Investments LLC,"EIA-757, Natural Gas Processing Plant Survey",-11491674,4958966
+Ladder Creek,CO,Cheyenne,55,15.00000000000,750,0,600,Cheyenne Wells,80810,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11405780,4696366
+Mull Unit Sorrento Field,CO,Cheyenne,4,1.00000000000,600,0,714,Kit Carson,80825,"Mull Drilling Company, Inc.","Mull Drilling Company, Inc.","EIA-757, Natural Gas Processing Plant Survey",-11449109,4693115
+Riverdale Gas Plant,CA,Fresno,0,0.20000000000,1400,0,119,Riverdale,81052,Crimson Resource Management Corp,Crimson Resource Management Corp,"EIA-757, Natural Gas Processing Plant Survey",-11428037,4568999
+La Veta Gas Plant,CO,Huernfo,17,3.00000000000,277,0,1904,La Veta,81055,Tabula Rasa Energy LLC,Tabula Rasa Energy LLC,"EIA-757, Natural Gas Processing Plant Survey",-11696435,4507134
+Ignacio Gas Plant,CO,La Plata,585,460.00000000000,1110,0,38850,Durango,81303,Williams,"Williams Midstream Srvcs, LLC","EIA-757, Natural Gas Processing Plant Survey",-12017446,4451978
+Cutthroat B,CO,Montezuma,2,0.04000000000,1310,0,1429,Pleasant View,81331,QEP Energy Company,QEP Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-12119517,4511337
+Harley Dome Plant,UT,Grand County,30,14.00000000000,1070,0,714,,81505,"Red Rock Gathering Company, LLC","Red Rock Gathering Company, LLC","EIA-757, Natural Gas Processing Plant Survey",-12084649,4752340
+Premier DeBeque,CO,Mesa County,26,20.00000000000,1039,0,1429,Grand Junction,81505,"Red Rock Gathering Company, LLC","Red Rock Gathering Company, LLC","EIA-757, Natural Gas Processing Plant Survey",-12088749,4745346
+Hay Canyon Treating Facility,CO,Garfield,25,6.00000000000,1085,0,1428,Loma,81524,Encana Oil and Gas USA,Encana Oil and Gas USA,"EIA-757, Natural Gas Processing Plant Survey",-12109466,4760259
+Buck Peak,CO,Moffat,0,0.20000000000,1250,0,4619,Craig,81625,Peakview,Custom Energy Construction,"EIA-757, Natural Gas Processing Plant Survey",-11987196,4982410
+Skull Creek Dew Point/CO,CO,Moffat,45,30.00000000000,1115,0,1428,Craig,81625,Questar Pipeline Company,Questar Pipeline Company,"EIA-757, Natural Gas Processing Plant Survey",-11970315,4970352
+Baxter Compressor Station- Baxter Pass Co.,CO,Garfield County,15,3.00000000000,915,0,476,,81630,Xcel Energy,Xcel Energy,"EIA-757, Natural Gas Processing Plant Survey",-12060463,4780221
+Grand Valley Gas Plant,CO,Garfield,100,0.00000000000,1073,0,2100,Parachute,81635,Williams Mid Stream,Williams Midstream,"EIA-757, Natural Gas Processing Plant Survey",-12024240,4789899
+Parachute Creek Gas Plant,CO,Garfield,1100,625.00000000000,1073,0,16900,Parachute,81635,Williams Mid Stream,Williams Mid Stream,"EIA-757, Natural Gas Processing Plant Survey",-12029304,4800269
+Wilson Creek Gas Processing Plant,CO,Rio Blanco,2,0.62000000000,1488,0,1464,Meeker,81641,Chevron USA Inc.,Chevron USA Inc.,"EIA-757, Natural Gas Processing Plant Survey",-11996114,4877631
+Plateau Creek Plant,CO,Mesa,1,1.00000000000,1080,5,300,Mesa,81643,Encana Oil and Gas,Encana Oil and Gas,"EIA-757, Natural Gas Processing Plant Survey",-12040085,4732889
+Dragon Trail,CO,Rio Blanco,60,26.00000000000,1140,0,6400,Rangley,81648,ENCANA OIL & GAS USA INC,ENCANA OIL & GAS USA INC,"EIA-757, Natural Gas Processing Plant Survey",-12114617,4873364
+North Douglas Plant,CO,Rio Blanco,22,6.00000000000,1160,0,0,Rangely,81648,"Red Rock Gathering Company, LLC","Red Rock Gathering Company, LLC","EIA-757, Natural Gas Processing Plant Survey",-12116305,4856724
+Meeker Gas Plant,CO,Rio Blanco,1800,1262.00000000000,1088,0,0,Rifle,81650,"Enterprise Gas Processing, LLC",Enterprise Gas Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-12061575,4841254
+Piceance Creek,CO,RIO BLANCO,5,1.00000000000,1092,0,700,MEEKER,81650,SOURCEGAS SERVICES LLC,"ROCKY MOUNTAIN NATURAL GAS, LLC","EIA-757, Natural Gas Processing Plant Survey",-12043488,4832813
+PICEANCE CREEK PLANT,CO,GARFIELD,20,0.00000000000,0,0,0,RIFLE,81650,DAVIS GAS PROCESSING INC,DAVIS GAS PROCESSING INC,"EIA-757, Natural Gas Processing Plant Survey",-12022748,4822443
+Rifle Gas Plant-Rifle Creek/CO,CO,Garfield,50,25.00000000000,1070,0,2857,,81650,Xcel Energy,Xcel Energy,"EIA-757, Natural Gas Processing Plant Survey",-12002490,4814485
+Willow Creek,CO,Rio Blanco,480,446.00000000000,1070,0,0,Rifle,81650,Williams,"Williams Midstream Srvcs., LLC","EIA-757, Natural Gas Processing Plant Survey",-12036253,4841495
+Silo Gas Plant,WY,Laramie,15,2.00000000000,1300,0,2140,Cheyenne,82009,"Kaiser-Frontier Midstream, LLC","Kaiser-Frontier Midstream, LLC","EIA-757, Natural Gas Processing Plant Survey",-11671702,5068257
+Bairoil CO2 Plant,WY,Sweetwater,160,0.00000000000,8,0,5700,Bairoil,82322,Memorial Production Operating LLC,Memorial Production Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-11973640,5196659
+Rawlins,WY,Carbon,220,97.60000000000,1066,0,23879,Sinclair,82334,"Colorado Interstate Gas Company, LLC","Colorado Interstate Gas Company, LLC","EIA-757, Natural Gas Processing Plant Survey",-11914072,5117832
+Echo Springs Gas Plant,WY,Carbon,745,600.00000000000,1150,0,0,Wamsutter,82336,Williams,"Williams Midstream Srvcs, LLC","EIA-757, Natural Gas Processing Plant Survey",-12043673,5120824
+Worland,WY,Washakie,6,2.00000000000,1248,0,4057,Worland,82401,Washakie Midstream Services LLC,Washakie Midstream Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-12020028,5468071
+Worland Plant,WY,Washakie,20,6.00000000000,1340,0,5000,Worland,82401,Devon Energy Corp.,Devon Energy Corp.,"EIA-757, Natural Gas Processing Plant Survey",-12025333,5460354
+Garland Gas Plant,WY,Park,4,1.00000000000,1067,0,572,Byron,82412,Marathon Oil Company,Marathon Oil Company,"EIA-757, Natural Gas Processing Plant Survey",-12083980,5589459
+Oregon Basin Gas Plant,WY,Park,6,5.00000000000,905,0,952,Cody,82414,Marathon Oil Company,Marathon Oil Company,"EIA-757, Natural Gas Processing Plant Survey",-12190579,5509129
+YU Bench,WY,Park,3,1.47500000000,1180,0,715,Meeteetse,82433,"Saga Petroleum, LLC",Saga Petroleum LLC,"EIA-757, Natural Gas Processing Plant Survey",-12140759,5478078
+Elk Basin Gasoline Plant,WY,Park,13,12.00000000000,430,0,11071,Powell,82435,Vanguard,Vanguard,"EIA-757, Natural Gas Processing Plant Survey",-12117302,5607710
+Fidelity Silvertip,WY,Park,10,2.00000000000,1381,0,2143,Powell,82435,Fidelity Explorationa nd Production Company,,"EIA-757, Natural Gas Processing Plant Survey",-12114166,5586006
+Sugarloaf Plant,WY,Park County,0,0.19000000000,1280,0,1143,Powell,82435,Windsor Energy Group,Windsor Energy Group,"EIA-757, Natural Gas Processing Plant Survey",-12126948,5593240
+Beaver Creek Plant,WY,Fremont,55,15.00000000000,1150,0,4948,Riverton,82501,Devon Gas Services LP,Devon Gas Services LP,"EIA-757, Natural Gas Processing Plant Survey",-12047196,5318474
+Phosphoria Gasoline Plant,WY,Fremont,6,2.00000000000,1137,0,0,Riverton,82501,Devon Gas Services LP,Devon Gas Services LP,"EIA-757, Natural Gas Processing Plant Survey",-12034173,5305451
+Pavillion Plant,WY,Fremont,80,12.00000000000,1089,0,2850,Pavillion,82523,Encana,Encana,"EIA-757, Natural Gas Processing Plant Survey",-12113134,5379667
+Austin Creek Gas Plant,WY,Natrona,5,2.80000000000,1200,0,476,,82604,"Legacy Reserves Operating, LP","Legacy Reserves Operating, LP","EIA-757, Natural Gas Processing Plant Survey",-11867368,5278784
+Casper Plant,WY,Natrona,65,53.27000000000,1150,0,8970,Casper,82604,Tallgrass Energy Midstream LLC,Tallgrass Energy Midstream LLC,"EIA-757, Natural Gas Processing Plant Survey",-11869780,5293736
+Douglas Plant,WY,Converse,130,98.47000000000,1240,0,15650,Douglas,82633,Tallgrass Energy Midstream LLC,Tallgrass Energy Midstream LLC,"EIA-757, Natural Gas Processing Plant Survey",-11744235,5294410
+FORT UNION MEDICINE BOW TREATING FACILITY,WY,Converse,340,256.00000000000,944,0,0,Douglas,82633,Crestone Energy Ventures LLC,"Western Gas Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-11735553,5315873
+Lost Cabin Gas Plant,WY,Fremont,533,242.00000000000,983,0,0,Lysite,82642,ConocoPhillips (Burlington Resources),ConocoPhillips Company,"EIA-757, Natural Gas Processing Plant Survey",-11980167,5352026
+Newcastle Complex,WY,Weston,3,2.20000000000,1657,0,3333,Newcastle,82710,WGR Operating L.P.,WGR Operating L.P.,"EIA-757, Natural Gas Processing Plant Survey",-11607324,5575629
+BISON TREATING FACILITY,WY,Campbell,270,218.00000000000,930,0,0,Gillette,82718,"Western Gas Partners, LP","Western Gas Partners, LP","EIA-757, Natural Gas Processing Plant Survey",-11739375,5409277
+HILIGHT COMPLEX,WY,Campbell,70,60.00000000000,1328,0,47619,Gillette,82718,"Western Gas Partners, LP",Anadarko Petroleum Company,"EIA-757, Natural Gas Processing Plant Survey",-11749745,5401319
+Patrick Draw Gas Plant,WY,Sweetwater,120,104.00000000000,1167,0,24500,Rock Springs,82901,"Mountain Gas Resources, LLC",Anadarko Petroleum,"EIA-757, Natural Gas Processing Plant Survey",-12134221,5066795
+Anschutz Ranch East,WY,Uinta,55,11.00000000000,1026,0,10000,Evanston,82930,Merit Energy Company,Merit Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-12287297,4998566
+Carter Creek Gas Plant,WY,Uinta,62,56.00000000000,1003,0,379,Evanston,82930,Chevron,Chevron,"EIA-757, Natural Gas Processing Plant Survey",-12317925,4993261
+Painter,WY,Uinta,250,220.00000000000,980,0,154000,Evanston,82930,Merit Energy,Merit Energy,"EIA-757, Natural Gas Processing Plant Survey",-12303455,4994467
+Blacks Fork Gas Plant,WY,Sweetwater,765,444.00000000000,1090,0,18334,Granger,82934,"Green River Processing, LLC","Green River Processing, LLC","EIA-757, Natural Gas Processing Plant Survey",-12246898,5099458
+Vermillion Gas Plant,WY,Sweetwater,57,54.00000000000,1130,0,685,Rock Springs,82934,QEP Field Services,QEP Field Services,"EIA-757, Natural Gas Processing Plant Survey",-12246584,5101859
+Granger Gas Plant,WY,Sweetwater,500,207.00000000000,1092,0,22300,Green River,82935,"Mountain Gas Resources, LLC",Anadarko Petroleum,"EIA-757, Natural Gas Processing Plant Survey",-12198791,5095780
+Table Rock Gas Plant,WY,Sweetwater,47,7.00000000000,1006,0,1000,Rock Springs,82935,Chevron U.S.A. Inc.,Chevron U.S.A. Inc.,"EIA-757, Natural Gas Processing Plant Survey",-12202891,5101568
+Emigrant Trail Gas Plant,WY,Uinta,55,45.00000000000,1130,0,2800,Lyman,82937,"Green River Processing, LLC","Green River Processing, LLC","EIA-757, Natural Gas Processing Plant Survey",-12273963,5064483
+Shute Creek Treating Facility,WY,Lincoln/Sweetwater,720,145.00000000000,2400,0,0,Kemmerer,83101,ExxonMobil Production Company,ExxonMobil Production Company,"EIA-757, Natural Gas Processing Plant Survey",-12327256,5146333
+Opal Gas Plant,WY,Lincoln,1480,1472.00000000000,1300,0,37000,Opal,83124,WIlliams,"Williams Midstream Srvcs, LLC","EIA-757, Natural Gas Processing Plant Survey",-12265122,5127090
+Pioneer Cryogenic Plant,WY,Lincoln,800,592.00000000000,1109,0,0,Opal,83124,"Enterprise Gas Processing, LLC",Enterprise Gas Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-12273321,5128296
+Altamont Gas Plant,UT,Duchesne,60,56.00000000000,1200,0,22476,Altamont,84001,Kinder Morgan Altamont LLC,Kinder Morgan Altamont LLC,"EIA-757, Natural Gas Processing Plant Survey",-12276356,4917838
+Brundage Canyon Gas Plant,UT,Duchesne,30,30.00000000000,1200,0,4285,,84021,LINN Operating Inc.,Linn Operating Inc.,"EIA-757, Natural Gas Processing Plant Survey",-12303930,4884878
+Kastler Dew Point Plant/UT,UT,Daggett,300,41.00000000000,1055,0,2143,Dutch John,84023,Questar Pipeline Company,Questar Pipeline Company,"EIA-757, Natural Gas Processing Plant Survey",-12154025,4994457
+Monument Butte Plant,UT,Duchesne,32,20.00000000000,1150,0,1440,Myton,84052,Newfield Exploration Company,Newfield Exploration Company,"EIA-757, Natural Gas Processing Plant Survey",-12238859,4893355
+Pleasant Valley,UT,Duchesne,24,20.00000000000,1150,0,495,Myton,84052,Newfield Exploration Company,Newfield Exploration Company,"EIA-757, Natural Gas Processing Plant Survey",-12244647,4890943
+Chipeta Plant,UT,Uintah,800,530.00000000000,1114,0,2000,Vernal,84078,Chipeta Processing LLC,Chipeta Processing LLC,"EIA-757, Natural Gas Processing Plant Survey",-12199154,4955700
+Ironhorse Gas Plant,UT,Uintah,300,245.64000000000,1130,0,0,Vernal,84078,QEP Field Services Company,QEP Field Services Company,"EIA-757, Natural Gas Processing Plant Survey",-12185890,4949671
+Stagecoach Gas Plant,UT,Uintah,150,7.23000000000,1120,0,4571,Vernal,84078,QEP Field Services Company,QEP Field Services Company,"EIA-757, Natural Gas Processing Plant Survey",-12187578,4957871
+Price Dew Point Plant/UT,UT,Carbon,120,0.00000000000,0,0,1428,Price,84501,Questar Pipeline Company,Questar Pipeline Company,"EIA-757, Natural Gas Processing Plant Survey",-12324099,4793665
+Price Raptor Plant/UT,UT,Carbon,130,4.00000000000,1039,0,3571,Price,84501,Questar Field Services,Questar Pipeline Company,"EIA-757, Natural Gas Processing Plant Survey",-12330160,4793168
+Lisbon Plant,UT,San Juan County,40,24.00000000000,900,0,615000,La Sal,84530,Castleton Commodities International,Castleton Commodities International,"EIA-757, Natural Gas Processing Plant Survey",-12151783,4620318
+Grand Gas Gathering Plant,UT,Grand,1,0.13000000000,1040,0,250,Cisco,84540,Rose Petroleum (US) LLC (9/1/14 - present),Rose Petroleum (US) LLC,"EIA-757, Natural Gas Processing Plant Survey",-12182289,4756609
+Kutz Gas Plant,NM,San Juan,230,130.80000000000,1238,0,4285,Bloomfield,87413,Williams,"Williams Midstream Srvcs, LLC","EIA-757, Natural Gas Processing Plant Survey",-12023306,4358579
+Chaco Gas Plant,NM,San Juan,600,443.00000000000,1150,0,12113,Bloomfield,87413,"Enterprise Field Services, LLC","Enterprise Products Operating, LLC","EIA-757, Natural Gas Processing Plant Survey",-12018724,4338562
+San Juan Basin Gas Plant,NM,San Juan,550,365.00000000000,1160,0,0,Bloomfield,87413,ConocoPhillips,ConocoPhillips,"EIA-757, Natural Gas Processing Plant Survey",-12020171,4347968
+San Juan Gas Plant,NM,San Juan,30,30.00000000000,1020,0,0,Kirtland,87417,"Castleton Commodities International, LLC","Castleton Commodities International, LLC","EIA-757, Natural Gas Processing Plant Survey",-12060915,4403483
+Artesia,NM,Eddy,90,90.00000000000,1170,0,2573,Artesia,88210,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11591890,3857834
+Dagger Draw Gas Processing Plant,NM,Eddy,40,34.70000000000,1152,0,619,Artesia,88210,Agave Energy Company,Agave Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-11616007,3862899
+Pecos Diamond,NM,Eddy,40,16.00000000000,1210,0,0,Artesia,88210,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11600813,3874475
+EMPIRE ABO GAS PLANT,NM,USA,45,32.60000000000,1240,0,368,ARTESIA,88210,AKA - FRONTIER FIELD SERVICES,FRONTIER FIELD SERVICES,"EIA-757, Natural Gas Processing Plant Survey",-11601537,3865069
+Carlsbad Chaparral Gas Plant,NM,Eddy,40,23.00000000000,1150,0,0,Carlsbad,88220,"Enterprise Field Services, LLC","Enterprise Field Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-11640663,3803186
+Antelope Ridge,NM,Lea,30,22.00000000000,1187,0,405,Oil Center,88240,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11522725,3858736
+Eunice,NM,Lea,105,95.00000000000,1250,0,4000,Oil Center,88240,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11543465,3860666
+Hobbs Cryogenics Plant,NM,Lea,42,20.00000000000,1125,0,80,Hobbs,88240,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11540572,3848366
+Linam Ranch,NM,Lea,225,164.00000000000,1241,0,1400,Hobbs,88240,DCP Midstream,DCP Midstream,"EIA-757, Natural Gas Processing Plant Survey",-11532372,3853913
+Jal #3 Plant,NM,Lea,110,95.00000000000,1260,0,6680,Jal,88252,Regency Field Services LLC,Regency Field Services LLC,"EIA-757, Natural Gas Processing Plant Survey",-11498215,3787967
+Red Hills Gas Processing Facility,NM,Lea,60,52.00000000000,1211,0,10700,Jal,88252,Agave Energy Company,Agave Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-11509309,3785556
+Indian Basin Gas Plant,NM,Eddy,180,84.00000000000,1180,0,5000,Lakewood,88254,OXY USA WTP LP,Oxy Permian Resources - Delaware Basin,"EIA-757, Natural Gas Processing Plant Survey",-11627204,3843479
+Palo Duro Gas Processing Facility,NM,Eddy,35,24.80000000000,1165,0,857,Loving,88256,Agave Energy Company,Agave Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-11558810,3780871
+South Carlsbad Dew Point Plant,NM,Eddy,200,50.00000000000,1060,0,1200,Loving,88256,"Enterprise Field Services, LLC",Enterprise Products Operating LLC,"EIA-757, Natural Gas Processing Plant Survey",-11560257,3787864
+Buckeye CO2 Plant,NM,Lea,55,42.00000000000,300,0,700,Lovington,88260,"Chevron USA, Inc",Chevron,"EIA-757, Natural Gas Processing Plant Survey",-11498276,3900685
+Denton Gas Plant,NM,Lea,20,2.33000000000,1444,0,750,Lovington,88260,"Davis Gas Processing, Inc.","Davis Gas Processing, Inc.","EIA-757, Natural Gas Processing Plant Survey",-11501170,3889591
+East Vacuum Liquid Recovery Plant,NM,Lea,21,20.25000000000,1219,0,1100,Lovington,88260,ConocoPhillips,ConocoPhillips,"EIA-757, Natural Gas Processing Plant Survey",-11514675,3885250
+Eunice Plant,NM,Lea,110,83.00000000000,1240,0,715,Eunice,88260,Targa Midstream Services LLC,"Targa Midstream Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-11522393,3891762
+Shoebar Gas Processing Facility,NM,Lea,35,11.60000000000,1117,0,150,Lovington,88260,Agave Energy Company,Agave Energy Company,"EIA-757, Natural Gas Processing Plant Survey",-11518775,3901408
+"Versado Gas Processors, LLC - Saunders Plant",NM,Lea,70,35.00000000000,1220,0,2286,Lovington,88260,"Targa Mid Services, LLC","Targa Midstream Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-11510334,3894173
+MALJAMAR GAS PLANT,NM,USA,150,85.00000000000,1220,0,1143,MALJAMAR,88264,AKA - FRONTIER FIELD SERVICES,FRONTIER FIELD SERVICES,"EIA-757, Natural Gas Processing Plant Survey",-11544085,3881730
+Monument Plant,NM,Lea,80,60.00000000000,1250,0,1600,MONUMENT,88265,"Targa Midstream Services, LLC","Targa Midstream Services, LLC","EIA-757, Natural Gas Processing Plant Survey",-11499623,3845033
+Murphy Gas Plant,CA,Los Angeles,2,1.25000000000,1100,0,50,Los Angeles,90007,Freeport McMoRan Oil & Gas Company (FMI),Freeport McMoRan Oil & Gas Company (FMI),"EIA-757, Natural Gas Processing Plant Survey",-13167428,4032492
+Inglewood Gas Plant #3,CA,Los Angeles,15,6.00000000000,1110,0,1500,Los Angeles,90056,Freeport McMoRan Oil & Gas Company (FMI),Freeport McMoRan Oil & Gas Company (FMI),"EIA-757, Natural Gas Processing Plant Survey",-13176940,4027173
+Montebello Gas Plant,CA,Los Angeles,2,0.75000000000,1100,0,0,Montebello,90640,Freeport McMoRan Oil & Gas Company (FMI),Freeport McMoRan Oil & Gas Company (FMI),"EIA-757, Natural Gas Processing Plant Survey",-13148030,4030824
+Signal Hill West Unit Gas Plant,CA,Los Angeles,2,1.33000000000,1370,0,952,Signal Hill,90755,"Signal Hill Petroleum, Inc.","Signal Hill Petroleum, Inc.","EIA-757, Natural Gas Processing Plant Survey",-13154155,4002091
+CRC Huntington Beach Gas Plant,CA,Orange,4,1.00000000000,1250,0,0,Huntington Beach,92648,California Resources Corporation LA Basin,CRC South,"EIA-757, Natural Gas Processing Plant Survey",-13137321,3985933
+Stearns Gas Plant,CA,Orange,4,2.20000000000,1390,0,1714,Brea,92821,Linn Energy,Linn Energy,"EIA-757, Natural Gas Processing Plant Survey",-13122920,4019060
+Ventura Gas Plant 7,CA,Ventura,12,7.62000000000,1167,0,1400,Ventura,93001,Aera Energy LLC,Aera Energy LLC,"EIA-757, Natural Gas Processing Plant Survey",-13329758,4031876
+Carpinteria Gas Plant,CA,Santa Barbara,30,0.14000000000,999,0,34,Carpinteria,93013,"Venoco, Inc","Venoco, Inc","EIA-757, Natural Gas Processing Plant Survey",-13302037,4088017
+Santa Clara Valley Gas Plant,CA,Ventura,17,10.00000000000,1250,0,2610,Piru,93040,"Vintage Pipeline, Inc.","Vintage Pipeline, Inc.","EIA-757, Natural Gas Processing Plant Survey",-13223905,4093672
+"Las Flores Canyon, POPCO",CA,Santa Barbara,67,35.00000000000,1066,0,4200,Goleta,93117,ExxonMobil Production Company,ExxonMobil Production Company,"EIA-757, Natural Gas Processing Plant Survey",-13358381,4094919
+"Las Flores Canyon, SGTP",CA,Santa Barbara,12,11.00000000000,1066,0,8300,Goleta,93117,ExxonMobil Production Company,ExxonMobil Production Company,"EIA-757, Natural Gas Processing Plant Survey",-13375986,4096124
+Ellwood Onshore Facility,CA,Santa Barbara,13,3.16000000000,1100,0,2000,Goleta,93117,"Venoco, Inc","Venoco, Inc","EIA-757, Natural Gas Processing Plant Survey",-13367545,4094919
+Belridge Gas Plant,CA,Kern,14,9.00000000000,1148,0,8346,McKittrick,93251,Seneca Resources Corporation,Seneca Resources Corporation,"EIA-757, Natural Gas Processing Plant Survey",-13325881,4203029
+Kernridge,CA,Kern,80,22.87000000000,1094,0,14900,McKittrick,93251,Aera Energy LLC,Aera Energy LLC,"EIA-757, Natural Gas Processing Plant Survey",-13317441,4204235
+Mckittrick 172,CA,Kern,80,41.20000000000,1175,0,5000,Mckittrick,93251,Chevron,Chevron,"EIA-757, Natural Gas Processing Plant Survey",-13331428,4206888
+California-San Joaquin Basin Onshore CA10,CA,Kern,167,102.00000000000,1194,0,19000,Tupman,93276,California Resources Corporation,California Resources Corporation,"EIA-757, Natural Gas Processing Plant Survey",-13285433,4203985
+Crestwood West Coast North Coles Levee,CA,Kern,24,5.00000000000,1271,0,373,Tupman,93276,Crestwood Equity Partners,Crestwood (f.k.a. Inergy),"EIA-757, Natural Gas Processing Plant Survey",-13286003,4204289
+Low Temperature Separation Plant No. 1,CA,Kern,150,88.51000000000,1175,0,0,Tupman,93276,California Resources Corporation,California Resources Corporation,"EIA-757, Natural Gas Processing Plant Survey",-13286758,4204602
+Low Temperature Separation Plant No. 2,CA,Kern,150,15.01000000000,1136,0,0,Tupman,93276,California Resources Corporation,California Resources Corporation,"EIA-757, Natural Gas Processing Plant Survey",-13287595,4204988
+South Coles Levee Gas Plant,CA,Kern,35,3.12500000000,1105,0,1895,Tupman,93276,"Central Resources, Inc.","Central Resources, Inc.","EIA-757, Natural Gas Processing Plant Survey",-13287439,4204620
+Greeley Gas Plant,CA,Kern,1,0.45000000000,1200,0,238,Bakersfield,93309,Crimson Resource Management Corp,Crimson Resource Management Corp,"EIA-757, Natural Gas Processing Plant Survey",-13254400,4210672
+HS&P Gas Plant,CA,Santa Barbara,15,3.10000000000,1180,0,2140,Lompoc,93436,Freeport-McMoRan Oil & Gas,Freeport-McMoRan Oil & Gas,"EIA-757, Natural Gas Processing Plant Survey",-13402563,4110361
+Wiggins Gas Processing Plant,CO,Morgan,2,1.10000000000,1200,0,582,Fort Morgan,95620,Western Operating Company,Western Operating Company,"EIA-757, Natural Gas Processing Plant Survey",-13553477,4637474
+TERRACE GAS PLANT,CO,WELD,3,1.15000000000,1460,0,714,NEW RAYMER,96155,WHITING OIL AND GAS CORPORATION,WHITING OIL AND GAS CORPORATION,"EIA-757, Natural Gas Processing Plant Survey",-13368552,4686197
